@@ -21,6 +21,8 @@ https://app.moqups.com/mdt1388e1n/view
 
 ![alt text](https://raw.githubusercontent.com/essential-data/idsk_moqups/master/docs/step_2_2.PNG)
 
+![alt text](https://raw.githubusercontent.com/essential-data/idsk_moqups/master/docs/step_2_3.PNG)
+
 3. Vložte komponenty do Vášho moqups projektu (Ctrl+V)
 
 ![alt text](https://raw.githubusercontent.com/essential-data/idsk_moqups/master/docs/step_3.PNG)

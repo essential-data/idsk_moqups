@@ -13,4 +13,22 @@ https://app.moqups.com/mdt1388e1n/view
 
 ![alt text](https://raw.githubusercontent.com/essential-data/idsk_moqups/master/docs/step_1_1.PNG)
 
-2. Skopírujte jednotlivé komponenty do Vášho projektu
+2. Skopírujte jednotlivé komponenty do Vášho projektu (Ctrl+A, Ctrl+C)
+
+![alt text](https://raw.githubusercontent.com/essential-data/idsk_moqups/master/docs/step_2.PNG)
+
+![alt text](https://raw.githubusercontent.com/essential-data/idsk_moqups/master/docs/step_2_1.PNG)
+
+![alt text](https://raw.githubusercontent.com/essential-data/idsk_moqups/master/docs/step_2_2.PNG)
+
+3. Vložte komponenty do Vášho moqups projektu (Ctrl+V)
+
+![alt text](https://raw.githubusercontent.com/essential-data/idsk_moqups/master/docs/step_3.PNG)
+
+![alt text](https://raw.githubusercontent.com/essential-data/idsk_moqups/master/docs/step_3_1.PNG)
+
+4. Používajte komponenty v projekte, doplňte spätnú väzbu ku komponentom, pridajte nové komponenty
+
+https://github.com/essential-data/idsk_moqups/issues
+
+https://github.com/essential-data/idsk_moqups/pulls

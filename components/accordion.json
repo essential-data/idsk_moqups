@@ -1,11 +1,11 @@
 {
   "type": "selection",
-  "guid": "d0c3b9e1",
-  "source": "ad7052e47",
+  "guid": "308e0da9",
+  "source": "a56aa4d10",
   "data": {
     "nodes": [
       {
-        "id": "d763f979",
+        "id": "6c002e00",
         "x": 55,
         "y": 22,
         "width": 158,
@@ -48,7 +48,7 @@
         "deps": {}
       },
       {
-        "id": "20bbfe37",
+        "id": "c84794cc",
         "x": 55,
         "y": 78,
         "width": 442,
@@ -91,7 +91,7 @@
         "deps": {}
       },
       {
-        "id": "daf8b34d",
+        "id": "eaf6d538",
         "x": 55,
         "y": 130,
         "width": 654,
@@ -127,7 +127,7 @@
         "deps": {}
       },
       {
-        "id": "61ff0621",
+        "id": "c06d5450",
         "x": 61,
         "y": 136,
         "width": 182,
@@ -165,7 +165,7 @@
         "deps": {}
       },
       {
-        "id": "be830c5b",
+        "id": "46e5b4d8",
         "x": 61,
         "y": 136,
         "width": 182,
@@ -209,13 +209,13 @@
         "deps": {}
       },
       {
-        "id": "cafce53d",
+        "id": "62e5d632",
         "x": 55,
-        "y": 228,
+        "y": 265,
         "width": 654,
         "height": 1,
         "rotation": 0,
-        "transform": "matrix(1 0 0 1 55 228)",
+        "transform": "matrix(1 0 0 1 55 265)",
         "inspectables": {
           "width_policy": "fixed",
           "height_policy": "fixed",
@@ -245,13 +245,13 @@
         "deps": {}
       },
       {
-        "id": "9167e7be",
+        "id": "d5260ef0",
         "x": 685,
-        "y": 272,
+        "y": 332,
         "width": 16,
         "height": 16,
         "rotation": 0,
-        "transform": "matrix(1 0 0 1 685 272)",
+        "transform": "matrix(1 0 0 1 685 332)",
         "inspectables": {
           "width_policy": "fixed",
           "height_policy": "fixed",
@@ -283,13 +283,13 @@
         "deps": {}
       },
       {
-        "id": "ddf60972",
+        "id": "93528e28",
         "x": 61,
-        "y": 234,
+        "y": 271,
         "width": 218,
         "height": 24,
         "rotation": 0,
-        "transform": "matrix(1 0 0 1 61 234)",
+        "transform": "matrix(1 0 0 1 61 271)",
         "inspectables": {
           "width_policy": "fixed",
           "height_policy": "auto",
@@ -327,13 +327,13 @@
         "deps": {}
       },
       {
-        "id": "bc0fd96a",
+        "id": "0aec831b",
         "x": 685,
-        "y": 239,
+        "y": 276,
         "width": 16,
         "height": 16,
         "rotation": 0,
-        "transform": "matrix(1 0 0 1 685 239)",
+        "transform": "matrix(1 0 0 1 685 276)",
         "inspectables": {
           "width_policy": "fixed",
           "height_policy": "fixed",
@@ -365,13 +365,13 @@
         "deps": {}
       },
       {
-        "id": "2c351d67",
+        "id": "b360218a",
         "x": 55,
-        "y": 263,
+        "y": 323,
         "width": 654,
         "height": 1,
         "rotation": 0,
-        "transform": "matrix(1 0 0 1 55 263)",
+        "transform": "matrix(1 0 0 1 55 323)",
         "inspectables": {
           "width_policy": "fixed",
           "height_policy": "fixed",
@@ -401,13 +401,13 @@
         "deps": {}
       },
       {
-        "id": "6f223e7a",
+        "id": "b1bc6fc8",
         "x": 61,
-        "y": 268,
+        "y": 328,
         "width": 218,
         "height": 24,
         "rotation": 0,
-        "transform": "matrix(1 0 0 1 61 268)",
+        "transform": "matrix(1 0 0 1 61 328)",
         "inspectables": {
           "width_policy": "fixed",
           "height_policy": "auto",
@@ -445,13 +445,13 @@
         "deps": {}
       },
       {
-        "id": "4868c09a",
+        "id": "5da18372",
         "x": 55,
-        "y": 296,
+        "y": 356,
         "width": 654,
         "height": 1,
         "rotation": 0,
-        "transform": "matrix(1 0 0 1 55 296)",
+        "transform": "matrix(1 0 0 1 55 356)",
         "inspectables": {
           "width_policy": "fixed",
           "height_policy": "fixed",
@@ -481,7 +481,7 @@
         "deps": {}
       },
       {
-        "id": "0465e4b8",
+        "id": "316f06c9",
         "x": 685,
         "y": 148,
         "width": 16,
@@ -519,18 +519,18 @@
         "deps": {}
       },
       {
-        "id": "4971cf07",
+        "id": "e776a9bf",
         "x": 57,
-        "y": 159,
-        "width": 470,
-        "height": 63,
+        "y": 168,
+        "width": 606,
+        "height": 87,
         "rotation": 0,
-        "transform": "matrix(1 0 0 1 57 159)",
+        "transform": "matrix(1 0 0 1 57 168)",
         "inspectables": {
           "width_policy": "fixed",
           "height_policy": "fixed",
-          "color": "rgb(0,0,0)",
-          "font_size": 11,
+          "color": null,
+          "font_size": 16,
           "text_align": "left",
           "line_height": 1.3,
           "background_color": "rgb(255,255,255)",
@@ -544,15 +544,15 @@
           "corner_radius_bl": 0,
           "corner_radius_lock": true,
           "corner_radius_scale": false,
-          "bold": false,
-          "italic": false,
-          "underline": false,
-          "strikethrough": false,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "strikethrough": null,
           "small_caps": false,
           "uppercase": false,
           "letter_spacing": 0,
-          "font": "Helvetica",
-          "font_weight": 400,
+          "font": null,
+          "font_weight": null,
           "aspect_lock": false,
           "fe_dropshadow_enabled": false,
           "fe_dropshadow_opacity": 75,
@@ -568,12 +568,22 @@
           "fe_blur_enabled": false,
           "fe_blur_size": 5
         },
-        "text": "<p dir=\"auto\"><strong>Anonymizuje sa:&nbsp;</strong>áno</p><p dir=\"auto\"><strong>Vysvetlenie:&nbsp;</strong>Spisová značka, ktorá je anonymizovaná v závislosti na súde a povahy súdneho rozhodnutia. Uplatňuje sa napr. pri anonymizácii rozhodnutí v poručníckych prípadoch, kedy sú jednotlivé súvisiace súdneho rozhodnutia použité v rozhodnutí.</p>",
+        "text": "<p dir=\"auto\"><span data-font=\"font-helvetica\" style=\"font-weight: bold; color: var(--mq-txt-color, rgb(0,0,0)); font-family: Helvetica, Arial, sans-serif;\">Anonymizuje sa:&nbsp;</span><span data-font=\"font-helvetica\" style=\"color: var(--mq-txt-color, rgb(0,0,0)); font-family: Helvetica, Arial, sans-serif; font-weight: 400;\">áno</span></p><p dir=\"auto\"><span data-font=\"font-helvetica\" style=\"font-weight: bold; color: var(--mq-txt-color, rgb(0,0,0)); font-family: Helvetica, Arial, sans-serif;\">Vysvetlenie:&nbsp;</span><span data-font=\"font-helvetica\" style=\"color: var(--mq-txt-color, rgb(0,0,0)); font-family: Helvetica, Arial, sans-serif; font-weight: 400;\">Spisová značka, ktorá je anonymizovaná v závislosti na súde a povahy súdneho rozhodnutia. Uplatňuje sa napr. pri anonymizácii rozhodnutí v poručníckych prípadoch, kedy sú jednotlivé súvisiace súdneho rozhodnutia použité v rozhodnutí.</span></p>",
         "name": "textarea",
-        "deps": {}
+        "deps": {
+          "fonts_used": [
+            {
+              "weights": [
+                400,
+                700
+              ],
+              "family": "Helvetica"
+            }
+          ]
+        }
       },
       {
-        "id": "d3083545",
+        "id": "c5d73917",
         "x": 626,
         "y": 105,
         "width": 82,
@@ -616,29 +626,29 @@
         "deps": {}
       },
       {
-        "id": "63912414",
+        "id": "65545c6f",
         "x": 55,
-        "y": 327,
-        "width": 234,
-        "height": 19,
+        "y": 386,
+        "width": 254,
+        "height": 38,
         "rotation": 0,
-        "transform": "matrix(1 0 0 1 55 327)",
+        "transform": "matrix(1 0 0 1 55 385.5)",
         "inspectables": {
           "width_policy": "auto",
           "height_policy": "auto",
-          "color": "rgb(0,0,0)",
+          "color": null,
           "font_size": 14,
           "text_align": "left",
-          "bold": false,
-          "italic": false,
-          "underline": false,
-          "strikethrough": false,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "strikethrough": null,
           "small_caps": false,
           "opacity": 100,
           "uppercase": false,
           "letter_spacing": 0,
-          "font": "Source Sans Pro",
-          "font_weight": 400,
+          "font": null,
+          "font_weight": null,
           "aspect_lock": false,
           "fe_dropshadow_enabled": false,
           "fe_dropshadow_opacity": 75,
@@ -654,34 +664,48 @@
           "fe_blur_enabled": false,
           "fe_blur_size": 5
         },
-        "text": "<p dir=\"auto\"><strong>text-color (nadpis riadku):&nbsp;</strong>$link-colour</p>",
+        "text": "<p dir=\"auto\"><span data-font=\"font-source-sans-pro\" style=\"font-weight: bold; color: var(--mq-txt-color, rgb(0,0,0)); font-family: &quot;Source Sans Pro&quot;, serif;\">text-color (nadpis riadku):&nbsp;</span><span data-font=\"font-source-sans-pro\" style=\"color: var(--mq-txt-color, rgb(0,0,0)); font-family: &quot;Source Sans Pro&quot;, serif; font-weight: 400;\">$link-colour</span></p><p dir=\"auto\"><span data-font=\"font-source-sans-pro\" style=\"font-weight: bold; color: var(--mq-txt-color, rgb(0,0,0)); font-family: &quot;Source Sans Pro&quot;, serif;\">font-size:</span><span data-font=\"font-source-sans-pro\" style=\"color: var(--mq-txt-color, rgb(0,0,0)); font-family: &quot;Source Sans Pro&quot;, serif; font-weight: 400;\"> 19px nadpis, 16px doplnkový text</span></p>",
         "name": "label",
-        "deps": {}
+        "deps": {
+          "fonts_used": [
+            {
+              "weights": [
+                200,
+                300,
+                400,
+                600,
+                700,
+                900
+              ],
+              "family": "Source Sans Pro"
+            }
+          ]
+        }
       },
       {
-        "id": "4469af79",
+        "id": "7817bd39",
         "x": 55,
-        "y": 346,
+        "y": 421,
         "width": 311,
         "height": 43,
         "rotation": 0,
-        "transform": "matrix(1 0 0 1 55 346)",
+        "transform": "matrix(1 0 0 1 55 421)",
         "inspectables": {
           "width_policy": "auto",
           "height_policy": "fixed",
-          "color": "rgb(0,0,0)",
+          "color": null,
           "font_size": 14,
           "text_align": "left",
-          "bold": false,
-          "italic": false,
-          "underline": false,
-          "strikethrough": false,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "strikethrough": null,
           "small_caps": false,
           "opacity": 100,
           "uppercase": false,
           "letter_spacing": 0,
-          "font": "Source Sans Pro",
-          "font_weight": 400,
+          "font": null,
+          "font_weight": null,
           "aspect_lock": false,
           "fe_dropshadow_enabled": false,
           "fe_dropshadow_opacity": 75,
@@ -697,18 +721,32 @@
           "fe_blur_enabled": false,
           "fe_blur_size": 5
         },
-        "text": "<p dir=\"auto\"><strong>ikona plus:&nbsp;</strong>fas fa-plus<strong>&nbsp;</strong>(height: 3.3px; width: 16px)</p><p dir=\"auto\"><strong>ikona mínus:&nbsp;</strong>fas fa-minus<strong>&nbsp;</strong>(height: 16px; width: 16px)</p><p dir=\"auto\"><br></p>",
+        "text": "<p dir=\"auto\"><span data-font=\"font-source-sans-pro\" style=\"font-weight: bold; color: var(--mq-txt-color, rgb(0,0,0)); font-family: &quot;Source Sans Pro&quot;, serif;\"><span class=\"ql-cursor\">﻿</span></span><span data-font=\"font-source-sans-pro\" style=\"font-weight: bold; color: var(--mq-txt-color, rgb(0,0,0)); font-family: &quot;Source Sans Pro&quot;, serif;\">ikona plus:&nbsp;</span><span data-font=\"font-source-sans-pro\" style=\"color: var(--mq-txt-color, rgb(0,0,0)); font-family: &quot;Source Sans Pro&quot;, serif; font-weight: 400;\">fas fa-plus</span><span data-font=\"font-source-sans-pro\" style=\"color: var(--mq-txt-color, rgb(0,0,0)); font-family: &quot;Source Sans Pro&quot;, serif; font-weight: bold;\">&nbsp;</span><span data-font=\"font-source-sans-pro\" style=\"color: var(--mq-txt-color, rgb(0,0,0)); font-family: &quot;Source Sans Pro&quot;, serif;\">(height: 3.3px; width: 16px)</span></p><p dir=\"auto\"><span data-font=\"font-source-sans-pro\" style=\"font-weight: bold; color: var(--mq-txt-color, rgb(0,0,0)); font-family: &quot;Source Sans Pro&quot;, serif;\">ikona mínus:&nbsp;</span><span data-font=\"font-source-sans-pro\" style=\"color: var(--mq-txt-color, rgb(0,0,0)); font-family: &quot;Source Sans Pro&quot;, serif; font-weight: 400;\">fas fa-minus</span><span data-font=\"font-source-sans-pro\" style=\"color: var(--mq-txt-color, rgb(0,0,0)); font-family: &quot;Source Sans Pro&quot;, serif; font-weight: bold;\">&nbsp;</span><span data-font=\"font-source-sans-pro\" style=\"color: var(--mq-txt-color, rgb(0,0,0)); font-family: &quot;Source Sans Pro&quot;, serif;\">(height: 16px; width: 16px)</span></p><p dir=\"auto\"><br></p>",
         "name": "label",
-        "deps": {}
+        "deps": {
+          "fonts_used": [
+            {
+              "weights": [
+                200,
+                300,
+                400,
+                600,
+                700,
+                900
+              ],
+              "family": "Source Sans Pro"
+            }
+          ]
+        }
       },
       {
-        "id": "bd7618fe",
+        "id": "9d751495",
         "x": 55,
-        "y": 394,
+        "y": 462,
         "width": 89,
         "height": 19,
         "rotation": 0,
-        "transform": "matrix(1 0 0 1 55 394)",
+        "transform": "matrix(1 0 0 1 55 462)",
         "inspectables": {
           "width_policy": "auto",
           "height_policy": "auto",
@@ -745,13 +783,13 @@
         "deps": {}
       },
       {
-        "id": "ba630b17",
+        "id": "b868db17",
         "x": 55,
-        "y": 422,
+        "y": 490,
         "width": 879,
         "height": 212,
         "rotation": 0,
-        "transform": "matrix(1 0 0 1 55 422)",
+        "transform": "matrix(1 0 0 1 55 490)",
         "inspectables": {
           "width_policy": "fixed",
           "height_policy": "fixed",
@@ -799,7 +837,7 @@
         "deps": {}
       },
       {
-        "id": "2c69ea51",
+        "id": "4ad242b9",
         "x": 61,
         "y": 160,
         "width": 182,
@@ -833,29 +871,77 @@
         "text": "",
         "name": "horizontal-line",
         "deps": {}
+      },
+      {
+        "id": "ef0d8d1f",
+        "x": 61,
+        "y": 297,
+        "width": 160,
+        "height": 22,
+        "rotation": 0,
+        "transform": "matrix(1 0 0 1 61 297.06)",
+        "inspectables": {
+          "width_policy": "auto",
+          "height_policy": "auto",
+          "color": null,
+          "font_size": 16,
+          "text_align": "left",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "strikethrough": null,
+          "small_caps": false,
+          "opacity": 100,
+          "uppercase": false,
+          "letter_spacing": 0,
+          "font": null,
+          "font_weight": null,
+          "aspect_lock": false,
+          "fe_dropshadow_enabled": false,
+          "fe_dropshadow_opacity": 75,
+          "fe_dropshadow_angle": 90,
+          "fe_dropshadow_distance": 5,
+          "fe_dropshadow_size": 5,
+          "fe_dropshadow_color": "rgb(0, 0, 0)",
+          "vertical_align": "middle",
+          "padding_left": 0,
+          "padding_right": 0,
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "fe_blur_enabled": false,
+          "fe_blur_size": 5
+        },
+        "text": "<p dir=\"auto\"><b style=\"font-weight: 400;\">Identifikačné číslo spisu</b></p>",
+        "name": "label",
+        "deps": {
+          "fonts_used": [
+            {
+              "weights": [
+                200,
+                300,
+                400,
+                600,
+                700,
+                900
+              ],
+              "family": "Source Sans Pro"
+            }
+          ]
+        }
       }
     ],
     "hierarchy": {
-      "63912414": {
-        "id": "63912414",
+      "4ad242b9": {
+        "id": "4ad242b9",
         "type": "item",
         "locked": false,
         "link": null,
         "aspect_lock": false,
         "visible": true,
-        "instance_name": "Label 17 Copy 2"
+        "instance_name": "Horizontal Line 5"
       },
-      "bc0fd96a": {
-        "id": "bc0fd96a",
-        "type": "item",
-        "locked": false,
-        "link": null,
-        "aspect_lock": false,
-        "visible": true,
-        "instance_name": "Plus Solid Icon 2"
-      },
-      "d763f979": {
-        "id": "d763f979",
+      "6c002e00": {
+        "id": "6c002e00",
         "type": "item",
         "locked": false,
         "link": null,
@@ -863,8 +949,8 @@
         "visible": true,
         "instance_name": "Heading 1"
       },
-      "20bbfe37": {
-        "id": "20bbfe37",
+      "c84794cc": {
+        "id": "c84794cc",
         "type": "item",
         "locked": false,
         "link": null,
@@ -872,8 +958,8 @@
         "visible": true,
         "instance_name": "Label 93"
       },
-      "daf8b34d": {
-        "id": "daf8b34d",
+      "eaf6d538": {
+        "id": "eaf6d538",
         "type": "item",
         "locked": false,
         "link": null,
@@ -881,8 +967,8 @@
         "visible": true,
         "instance_name": "Horizontal Line 1"
       },
-      "61ff0621": {
-        "id": "61ff0621",
+      "c06d5450": {
+        "id": "c06d5450",
         "type": "item",
         "locked": false,
         "link": null,
@@ -890,8 +976,8 @@
         "visible": true,
         "instance_name": "Rectangle 1"
       },
-      "be830c5b": {
-        "id": "be830c5b",
+      "46e5b4d8": {
+        "id": "46e5b4d8",
         "type": "item",
         "locked": false,
         "link": null,
@@ -899,8 +985,8 @@
         "visible": true,
         "instance_name": "Paragraph 12"
       },
-      "cafce53d": {
-        "id": "cafce53d",
+      "62e5d632": {
+        "id": "62e5d632",
         "type": "item",
         "locked": false,
         "link": null,
@@ -908,8 +994,8 @@
         "visible": true,
         "instance_name": "Horizontal Line 2"
       },
-      "9167e7be": {
-        "id": "9167e7be",
+      "d5260ef0": {
+        "id": "d5260ef0",
         "type": "item",
         "locked": false,
         "link": null,
@@ -917,8 +1003,8 @@
         "visible": true,
         "instance_name": "Plus Solid Icon 1"
       },
-      "ddf60972": {
-        "id": "ddf60972",
+      "93528e28": {
+        "id": "93528e28",
         "type": "item",
         "locked": false,
         "link": null,
@@ -926,8 +1012,17 @@
         "visible": true,
         "instance_name": "Paragraph 13"
       },
-      "2c351d67": {
-        "id": "2c351d67",
+      "0aec831b": {
+        "id": "0aec831b",
+        "type": "item",
+        "locked": false,
+        "link": null,
+        "aspect_lock": false,
+        "visible": true,
+        "instance_name": "Plus Solid Icon 2"
+      },
+      "b360218a": {
+        "id": "b360218a",
         "type": "item",
         "locked": false,
         "link": null,
@@ -935,8 +1030,8 @@
         "visible": true,
         "instance_name": "Horizontal Line 3"
       },
-      "6f223e7a": {
-        "id": "6f223e7a",
+      "b1bc6fc8": {
+        "id": "b1bc6fc8",
         "type": "item",
         "locked": false,
         "link": null,
@@ -944,8 +1039,8 @@
         "visible": true,
         "instance_name": "Paragraph 14"
       },
-      "4868c09a": {
-        "id": "4868c09a",
+      "5da18372": {
+        "id": "5da18372",
         "type": "item",
         "locked": false,
         "link": null,
@@ -953,8 +1048,8 @@
         "visible": true,
         "instance_name": "Horizontal Line 4"
       },
-      "0465e4b8": {
-        "id": "0465e4b8",
+      "316f06c9": {
+        "id": "316f06c9",
         "type": "item",
         "locked": false,
         "link": null,
@@ -962,8 +1057,8 @@
         "visible": true,
         "instance_name": "Minus Solid Icon 1"
       },
-      "4971cf07": {
-        "id": "4971cf07",
+      "e776a9bf": {
+        "id": "e776a9bf",
         "type": "item",
         "locked": false,
         "link": null,
@@ -971,8 +1066,8 @@
         "visible": true,
         "instance_name": "Text area 1"
       },
-      "d3083545": {
-        "id": "d3083545",
+      "c5d73917": {
+        "id": "c5d73917",
         "type": "item",
         "locked": false,
         "link": null,
@@ -980,8 +1075,17 @@
         "visible": true,
         "instance_name": "Link 2"
       },
-      "4469af79": {
-        "id": "4469af79",
+      "65545c6f": {
+        "id": "65545c6f",
+        "type": "item",
+        "locked": false,
+        "link": null,
+        "aspect_lock": false,
+        "visible": true,
+        "instance_name": "Label 17 Copy 2"
+      },
+      "7817bd39": {
+        "id": "7817bd39",
         "type": "item",
         "locked": false,
         "link": null,
@@ -989,8 +1093,8 @@
         "visible": true,
         "instance_name": "Label 17 Copy 3"
       },
-      "bd7618fe": {
-        "id": "bd7618fe",
+      "9d751495": {
+        "id": "9d751495",
         "type": "item",
         "locked": false,
         "link": null,
@@ -998,8 +1102,8 @@
         "visible": true,
         "instance_name": "Label 17 Copy 4"
       },
-      "ba630b17": {
-        "id": "ba630b17",
+      "b868db17": {
+        "id": "b868db17",
         "type": "item",
         "locked": false,
         "link": null,
@@ -1007,41 +1111,42 @@
         "visible": true,
         "instance_name": "Text area 2"
       },
-      "2c69ea51": {
-        "id": "2c69ea51",
+      "ef0d8d1f": {
+        "id": "ef0d8d1f",
         "type": "item",
         "locked": false,
         "link": null,
         "aspect_lock": false,
         "visible": true,
-        "instance_name": "Horizontal Line 5"
+        "instance_name": "Label 17 Copy 5"
       }
     },
     "idMapping": {
-      "88189074": "bc0fd96a",
-      "74212a8f": "d763f979",
-      "899f673b": "20bbfe37",
-      "9cf8411f": "daf8b34d",
-      "3b30e358": "61ff0621",
-      "06d9146e": "be830c5b",
-      "e7c60f7c": "cafce53d",
-      "b56f01e0": "9167e7be",
-      "af476e08": "ddf60972",
-      "865635f6": "2c351d67",
-      "e8413e54": "6f223e7a",
-      "fc17d19a": "4868c09a",
-      "e67e4b7b": "0465e4b8",
-      "a6767562": "4971cf07",
-      "13eddcd1": "d3083545",
-      "e038e5c6": "63912414",
-      "b16ec8f4": "4469af79",
-      "042a55b4": "bd7618fe",
-      "bb8da4aa": "ba630b17",
-      "0338500d": "2c69ea51"
+      "68659661": "4ad242b9",
+      "af4d947a": "6c002e00",
+      "986ab05e": "c84794cc",
+      "454dc250": "eaf6d538",
+      "e23fa117": "c06d5450",
+      "c6243df9": "46e5b4d8",
+      "46a06bbf": "62e5d632",
+      "0624c764": "d5260ef0",
+      "a864cc54": "93528e28",
+      "bc1e65f6": "0aec831b",
+      "edb8d575": "b360218a",
+      "0014aa7b": "b1bc6fc8",
+      "6f359261": "5da18372",
+      "7679df43": "316f06c9",
+      "1399b88d": "e776a9bf",
+      "b5270c1d": "c5d73917",
+      "181fa54e": "65545c6f",
+      "fd28ac0d": "7817bd39",
+      "e926d550": "9d751495",
+      "e7ad94da": "b868db17",
+      "40154d41": "ef0d8d1f"
     },
     "size": {
       "width": 879,
-      "height": 612
+      "height": 680
     },
     "symbolInstances": {}
   }

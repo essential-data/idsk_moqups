@@ -1,0 +1,800 @@
+{
+  "type": "selection",
+  "guid": "1443d934",
+  "source": "a6414e18f",
+  "data": {
+    "nodes": [
+      {
+        "id": "fafd1be5",
+        "x": 82,
+        "y": 30,
+        "width": 251,
+        "height": 50,
+        "rotation": 0,
+        "transform": "matrix(1 0 0 1 82 30)",
+        "inspectables": {
+          "width_policy": "auto",
+          "height_policy": "auto",
+          "color": null,
+          "font_size": 36,
+          "text_align": "left",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "strikethrough": null,
+          "small_caps": false,
+          "uppercase": false,
+          "letter_spacing": 0,
+          "opacity": 100,
+          "font": null,
+          "font_weight": null,
+          "aspect_lock": false,
+          "fe_dropshadow_enabled": false,
+          "fe_dropshadow_opacity": 75,
+          "fe_dropshadow_angle": 90,
+          "fe_dropshadow_distance": 5,
+          "fe_dropshadow_size": 5,
+          "fe_dropshadow_color": "rgb(0, 0, 0)",
+          "vertical_align": "middle",
+          "padding_left": 0,
+          "padding_right": 0,
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "fe_blur_enabled": false,
+          "fe_blur_size": 5
+        },
+        "text": "<p dir=\"auto\"><span data-font=\"font-source-sans-pro\" style=\"font-weight: bold; color: var(--mq-txt-color, rgb(0,0,0)); font-family: &quot;Source Sans Pro&quot;, serif;\">Ikony a obrázky</span></p>",
+        "name": "heading",
+        "deps": {
+          "fonts_used": [
+            {
+              "weights": [
+                200,
+                300,
+                400,
+                600,
+                700,
+                900
+              ],
+              "family": "Source Sans Pro"
+            }
+          ]
+        }
+      },
+      {
+        "id": "24b57007",
+        "x": 82,
+        "y": 94,
+        "width": 408,
+        "height": 22,
+        "rotation": 0,
+        "transform": "matrix(1 0 0 1 82 94)",
+        "inspectables": {
+          "width_policy": "auto",
+          "height_policy": "auto",
+          "color": null,
+          "font_size": 16,
+          "text_align": "left",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "strikethrough": null,
+          "small_caps": false,
+          "opacity": 100,
+          "uppercase": false,
+          "letter_spacing": 0,
+          "font": null,
+          "font_weight": null,
+          "aspect_lock": false,
+          "fe_dropshadow_enabled": false,
+          "fe_dropshadow_opacity": 75,
+          "fe_dropshadow_angle": 90,
+          "fe_dropshadow_distance": 5,
+          "fe_dropshadow_size": 5,
+          "fe_dropshadow_color": "rgb(0, 0, 0)",
+          "vertical_align": "middle",
+          "padding_left": 0,
+          "padding_right": 0,
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "fe_blur_enabled": false,
+          "fe_blur_size": 5
+        },
+        "text": "<p dir=\"auto\"><em data-font=\"font-source-sans-pro\" style=\"font-weight: bold; color: var(--mq-txt-color, rgb(11,12,12)); font-family: &quot;Source Sans Pro&quot;, serif;\">Zdroj 1: </em><a href=\"https://idsk-elements.herokuapp.com/icons-images/\" target=\"_blank\">https://idsk-elements.herokuapp.com/icons-images/</a></p>",
+        "name": "label",
+        "deps": {
+          "fonts_used": [
+            {
+              "weights": [
+                200,
+                300,
+                400,
+                600,
+                700,
+                900
+              ],
+              "family": "Source Sans Pro"
+            }
+          ]
+        }
+      },
+      {
+        "id": "26c7ec1b",
+        "x": 839,
+        "y": 12,
+        "width": 151,
+        "height": 85,
+        "rotation": 0,
+        "transform": "matrix(1 0 0 1 839 12)",
+        "inspectables": {
+          "asset_id": "",
+          "is_clipboard_paste": false,
+          "is_in_library": false,
+          "width_policy": "fixed",
+          "height_policy": "fixed",
+          "stroke_color": "rgb(0,0,0)",
+          "stroke_width": 0,
+          "stroke_style": "solid",
+          "corner_radius_tl": 0,
+          "corner_radius_tr": 0,
+          "corner_radius_br": 0,
+          "corner_radius_bl": 0,
+          "corner_radius_lock": true,
+          "corner_radius_scale": false,
+          "opacity": 100,
+          "aspect_lock": true,
+          "crop_scale_x": 0,
+          "crop_scale_y": 0,
+          "crop_scale_width": 1,
+          "crop_scale_height": 1,
+          "crop_scale_zoom": 1,
+          "fe_dropshadow_enabled": false,
+          "fe_dropshadow_opacity": 75,
+          "fe_dropshadow_angle": 90,
+          "fe_dropshadow_distance": 5,
+          "fe_dropshadow_size": 5,
+          "fe_dropshadow_color": "rgb(0, 0, 0)",
+          "fe_blur_enabled": false,
+          "fe_blur_size": 5
+        },
+        "text": "",
+        "data": {
+          "original_href": ""
+        },
+        "name": "image",
+        "link": null,
+        "url": "repo/l74TTI67/images/sxK52CM6J7.png",
+        "deps": {}
+      },
+      {
+        "id": "bb8bf20c",
+        "x": 125,
+        "y": 244,
+        "width": 695,
+        "height": 63,
+        "rotation": 0,
+        "transform": "matrix(1 0 0 1 125 244)",
+        "inspectables": {
+          "width_policy": "fixed",
+          "height_policy": "fixed",
+          "color": null,
+          "font_size": 24,
+          "text_align": "left",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "strikethrough": null,
+          "small_caps": false,
+          "uppercase": false,
+          "letter_spacing": 0,
+          "opacity": 100,
+          "font": null,
+          "font_weight": null,
+          "aspect_lock": false,
+          "fe_dropshadow_enabled": false,
+          "fe_dropshadow_opacity": 75,
+          "fe_dropshadow_angle": 90,
+          "fe_dropshadow_distance": 5,
+          "fe_dropshadow_size": 5,
+          "fe_dropshadow_color": "rgb(0, 0, 0)",
+          "vertical_align": "middle",
+          "padding_left": 0,
+          "padding_right": 0,
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "fe_blur_enabled": false,
+          "fe_blur_size": 5
+        },
+        "text": "<p dir=\"auto\"><span data-font=\"font-source-sans-pro\" style=\"font-weight: bold; color: var(--mq-txt-color, rgb(0,0,0)); font-family: &quot;Source Sans Pro&quot;, serif;\">Ak sa nezaregistrujete, môžete dostať pokutu až do výšky 5000 </span><span style=\"font-weight: 700;\">€.</span></p>",
+        "name": "heading",
+        "deps": {
+          "fonts_used": [
+            {
+              "weights": [
+                200,
+                300,
+                400,
+                600,
+                700,
+                900
+              ],
+              "family": "Source Sans Pro"
+            }
+          ]
+        }
+      },
+      {
+        "id": "65da05fd",
+        "x": 90,
+        "y": 265,
+        "width": 24,
+        "height": 24,
+        "rotation": 0,
+        "transform": "matrix(1 0 0 1 90 265)",
+        "inspectables": {
+          "width_policy": "fixed",
+          "height_policy": "fixed",
+          "background_color": "rgb(0,0,0)",
+          "stroke_color": "rgb(0,0,0)",
+          "stroke_width": 0,
+          "stroke_style": "solid",
+          "opacity": 100,
+          "path": "M10.29 1.71Q13.08 1.71 15.45 3.09T19.19 6.84 20.57 12 19.19 17.16 15.45 20.91 10.29 22.29 5.12 20.91 1.38 17.16 0 12 1.38 6.84 5.12 3.09 10.29 1.71ZM12 18.42V15.87Q12 15.68 11.88 15.56T11.58 15.43H9.01Q8.84 15.43 8.71 15.56T8.57 15.87V18.42Q8.57 18.59 8.71 18.72T9.01 18.86H11.58Q11.76 18.86 11.88 18.73T12 18.42ZM11.97 13.81L12.21 5.49Q12.21 5.33 12.08 5.25 11.95 5.14 11.76 5.14H8.81Q8.63 5.14 8.49 5.25 8.36 5.33 8.36 5.49L8.58 13.81Q8.58 13.94 8.72 14.04T9.04 14.14H11.52Q11.71 14.14 11.83 14.04T11.97 13.81Z",
+          "path_bbox_width": 0,
+          "path_bbox_height": 0,
+          "size": 24,
+          "aspect_lock": true,
+          "fe_dropshadow_enabled": false,
+          "fe_dropshadow_opacity": 75,
+          "fe_dropshadow_angle": 90,
+          "fe_dropshadow_distance": 5,
+          "fe_dropshadow_size": 5,
+          "fe_dropshadow_color": "rgb(0, 0, 0)",
+          "fe_blur_enabled": false,
+          "fe_blur_size": 5
+        },
+        "text": "",
+        "data": {
+          "iconset": "font-awesome-v4",
+          "icon": "exclamation-circle"
+        },
+        "name": "plain-svg",
+        "deps": {}
+      },
+      {
+        "id": "245db928",
+        "x": 82,
+        "y": 224,
+        "width": 60,
+        "height": 33,
+        "rotation": 0,
+        "transform": "matrix(1 0 0 1 82 224)",
+        "inspectables": {
+          "width_policy": "auto",
+          "height_policy": "auto",
+          "color": null,
+          "font_size": 24,
+          "text_align": "left",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "strikethrough": null,
+          "small_caps": false,
+          "uppercase": false,
+          "letter_spacing": 0,
+          "opacity": 100,
+          "font": null,
+          "font_weight": null,
+          "aspect_lock": false,
+          "fe_dropshadow_enabled": false,
+          "fe_dropshadow_opacity": 75,
+          "fe_dropshadow_angle": 90,
+          "fe_dropshadow_distance": 5,
+          "fe_dropshadow_size": 5,
+          "fe_dropshadow_color": "rgb(0, 0, 0)",
+          "vertical_align": "middle",
+          "padding_left": 0,
+          "padding_right": 0,
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "fe_blur_enabled": false,
+          "fe_blur_size": 5
+        },
+        "text": "<p dir=\"auto\"><span data-font=\"font-source-sans-pro\" style=\"font-weight: bold; color: var(--mq-txt-color, rgb(0,0,0)); font-family: &quot;Source Sans Pro&quot;, serif;\">Ikony</span></p>",
+        "name": "heading",
+        "deps": {
+          "fonts_used": [
+            {
+              "weights": [
+                200,
+                300,
+                400,
+                600,
+                700,
+                900
+              ],
+              "family": "Source Sans Pro"
+            }
+          ]
+        }
+      },
+      {
+        "id": "8292c9e6",
+        "x": 82,
+        "y": 412,
+        "width": 89,
+        "height": 33,
+        "rotation": 0,
+        "transform": "matrix(1 0 0 1 82 412)",
+        "inspectables": {
+          "width_policy": "auto",
+          "height_policy": "auto",
+          "color": null,
+          "font_size": 24,
+          "text_align": "left",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "strikethrough": null,
+          "small_caps": false,
+          "uppercase": false,
+          "letter_spacing": 0,
+          "opacity": 100,
+          "font": null,
+          "font_weight": null,
+          "aspect_lock": false,
+          "fe_dropshadow_enabled": false,
+          "fe_dropshadow_opacity": 75,
+          "fe_dropshadow_angle": 90,
+          "fe_dropshadow_distance": 5,
+          "fe_dropshadow_size": 5,
+          "fe_dropshadow_color": "rgb(0, 0, 0)",
+          "vertical_align": "middle",
+          "padding_left": 0,
+          "padding_right": 0,
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "fe_blur_enabled": false,
+          "fe_blur_size": 5
+        },
+        "text": "<p dir=\"auto\"><span data-font=\"font-source-sans-pro\" style=\"font-weight: bold; color: var(--mq-txt-color, rgb(0,0,0)); font-family: &quot;Source Sans Pro&quot;, serif;\">Obrázky</span></p>",
+        "name": "heading",
+        "deps": {
+          "fonts_used": [
+            {
+              "weights": [
+                200,
+                300,
+                400,
+                600,
+                700,
+                900
+              ],
+              "family": "Source Sans Pro"
+            }
+          ]
+        }
+      },
+      {
+        "id": "ba71591f",
+        "x": 84,
+        "y": 523,
+        "width": 136,
+        "height": 43,
+        "rotation": 0,
+        "transform": "matrix(1 0 0 1 84 523)",
+        "inspectables": {
+          "width_policy": "fixed",
+          "height_policy": "fixed",
+          "color": null,
+          "font_size": 18,
+          "text_align": "left",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "strikethrough": null,
+          "small_caps": false,
+          "uppercase": false,
+          "letter_spacing": 0,
+          "opacity": 100,
+          "font": null,
+          "font_weight": null,
+          "aspect_lock": false,
+          "fe_dropshadow_enabled": false,
+          "fe_dropshadow_opacity": 75,
+          "fe_dropshadow_angle": 90,
+          "fe_dropshadow_distance": 5,
+          "fe_dropshadow_size": 5,
+          "fe_dropshadow_color": "rgb(0, 0, 0)",
+          "vertical_align": "middle",
+          "padding_left": 0,
+          "padding_right": 0,
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "fe_blur_enabled": false,
+          "fe_blur_size": 5
+        },
+        "text": "<p><em>viď. Demo Karty</em></p>",
+        "name": "heading",
+        "deps": {
+          "fonts_used": [
+            {
+              "weights": [
+                200,
+                300,
+                400,
+                600,
+                700,
+                900
+              ],
+              "family": "Source Sans Pro"
+            }
+          ]
+        }
+      },
+      {
+        "id": "e04c329b",
+        "x": 84,
+        "y": 318,
+        "width": 131,
+        "height": 26,
+        "rotation": 0,
+        "transform": "matrix(1 0 0 1 84 317.85)",
+        "inspectables": {
+          "width_policy": "auto",
+          "height_policy": "auto",
+          "color": null,
+          "font_size": 19,
+          "text_align": "left",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "strikethrough": null,
+          "small_caps": false,
+          "uppercase": false,
+          "letter_spacing": 0,
+          "opacity": 100,
+          "font": null,
+          "font_weight": null,
+          "aspect_lock": false,
+          "fe_dropshadow_enabled": false,
+          "fe_dropshadow_opacity": 75,
+          "fe_dropshadow_angle": 90,
+          "fe_dropshadow_distance": 5,
+          "fe_dropshadow_size": 5,
+          "fe_dropshadow_color": "rgb(0, 0, 0)",
+          "vertical_align": "middle",
+          "padding_left": 0,
+          "padding_right": 0,
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "fe_blur_enabled": false,
+          "fe_blur_size": 5
+        },
+        "text": "<p dir=\"auto\"><span data-font=\"font-source-sans-pro\" style=\"font-weight: bold; color: var(--mq-txt-color, rgb(0,0,0)); font-family: &quot;Source Sans Pro&quot;, serif;\">Dostupné ikony</span></p>",
+        "name": "heading",
+        "deps": {
+          "fonts_used": [
+            {
+              "weights": [
+                200,
+                300,
+                400,
+                600,
+                700,
+                900
+              ],
+              "family": "Source Sans Pro"
+            }
+          ]
+        }
+      },
+      {
+        "id": "21339aa6",
+        "x": 82,
+        "y": 135,
+        "width": 844,
+        "height": 40,
+        "rotation": 0,
+        "transform": "matrix(1 0 0 1 82 135.16)",
+        "inspectables": {
+          "width_policy": "fixed",
+          "height_policy": "auto",
+          "color": null,
+          "font_size": 16,
+          "text_align": "left",
+          "line_height": 1.3,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "opacity": 100,
+          "strikethrough": null,
+          "small_caps": false,
+          "uppercase": false,
+          "letter_spacing": 0,
+          "font": null,
+          "font_weight": null,
+          "aspect_lock": false,
+          "fe_dropshadow_enabled": false,
+          "fe_dropshadow_opacity": 75,
+          "fe_dropshadow_angle": 90,
+          "fe_dropshadow_distance": 5,
+          "fe_dropshadow_size": 5,
+          "fe_dropshadow_color": "rgb(0, 0, 0)",
+          "vertical_align": "top",
+          "padding_left": 0,
+          "padding_right": 0,
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "fe_blur_enabled": false,
+          "fe_blur_size": 5,
+          "orderedList": null,
+          "unorderedList": null,
+          "link": null,
+          "removeFormat": null,
+          "color_selected": null,
+          "highlight": null
+        },
+        "text": "<p dir=\"auto\"><span data-font=\"font-helvetica\" style=\"color: var(--mq-txt-color, rgb(0,0,0)); font-family: Helvetica, Arial, sans-serif;\">Odporúčame nepoužívať zbytočné grafické prvky. Ikony a obrázky by sa mali používať iba vtedy, keď ich používateľ naozaj potrebuje.</span></p>",
+        "name": "text",
+        "deps": {
+          "fonts_used": [
+            {
+              "weights": [
+                400,
+                700
+              ],
+              "family": "Helvetica"
+            }
+          ]
+        }
+      },
+      {
+        "id": "0cc09dc6",
+        "x": 82,
+        "y": 451,
+        "width": 818,
+        "height": 60,
+        "rotation": 0,
+        "transform": "matrix(1 0 0 1 82 451)",
+        "inspectables": {
+          "width_policy": "fixed",
+          "height_policy": "auto",
+          "color": null,
+          "font_size": 16,
+          "text_align": "left",
+          "line_height": 1.3,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "opacity": 100,
+          "strikethrough": null,
+          "small_caps": false,
+          "uppercase": false,
+          "letter_spacing": 0,
+          "font": null,
+          "font_weight": null,
+          "aspect_lock": false,
+          "fe_dropshadow_enabled": false,
+          "fe_dropshadow_opacity": 75,
+          "fe_dropshadow_angle": 90,
+          "fe_dropshadow_distance": 5,
+          "fe_dropshadow_size": 5,
+          "fe_dropshadow_color": "rgb(0, 0, 0)",
+          "vertical_align": "top",
+          "padding_left": 0,
+          "padding_right": 0,
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "fe_blur_enabled": false,
+          "fe_blur_size": 5,
+          "orderedList": null,
+          "unorderedList": null,
+          "link": null,
+          "removeFormat": null,
+          "color_selected": null,
+          "highlight": null
+        },
+        "text": "<ul dir=\"auto\"><li style=\"color: var(--mq-txt-color, rgb(0,0,0));\"><span data-font=\"font-helvetica\" style=\"color: var(--mq-txt-color, rgb(0,0,0)); font-family: Helvetica, Arial, sans-serif;\">Ak sú na stránke potrebné obrázky, mali by byť orientované na šírku a v pomere strán 3:2.</span></li><li style=\"color: var(--mq-txt-color, rgb(0,0,0));\"><span data-font=\"font-helvetica\" style=\"color: var(--mq-txt-color, rgb(0,0,0)); font-family: Helvetica, Arial, sans-serif;\">Nepoužívajte obrázky ako náhradu textu. Výnimkou sú obrázky s grafmi alebo schémami, ktoré nie sú textom plne nahraditeľné.</span></li></ul>",
+        "name": "text",
+        "deps": {
+          "fonts_used": [
+            {
+              "weights": [
+                400,
+                700
+              ],
+              "family": "Helvetica"
+            }
+          ]
+        }
+      },
+      {
+        "id": "b5edd129",
+        "x": 84,
+        "y": 339,
+        "width": 194,
+        "height": 43,
+        "rotation": 0,
+        "transform": "matrix(1 0 0 1 84 339)",
+        "inspectables": {
+          "width_policy": "fixed",
+          "height_policy": "fixed",
+          "color": null,
+          "font_size": 18,
+          "text_align": "left",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "strikethrough": null,
+          "small_caps": false,
+          "uppercase": false,
+          "letter_spacing": 0,
+          "opacity": 100,
+          "font": null,
+          "font_weight": null,
+          "aspect_lock": false,
+          "fe_dropshadow_enabled": false,
+          "fe_dropshadow_opacity": 75,
+          "fe_dropshadow_angle": 90,
+          "fe_dropshadow_distance": 5,
+          "fe_dropshadow_size": 5,
+          "fe_dropshadow_color": "rgb(0, 0, 0)",
+          "vertical_align": "middle",
+          "padding_left": 0,
+          "padding_right": 0,
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "fe_blur_enabled": false,
+          "fe_blur_size": 5
+        },
+        "text": "<p dir=\"auto\"><em>viď. Demo dostupné ikony</em></p>",
+        "name": "heading",
+        "deps": {
+          "fonts_used": [
+            {
+              "weights": [
+                200,
+                300,
+                400,
+                600,
+                700,
+                900
+              ],
+              "family": "Source Sans Pro"
+            }
+          ]
+        }
+      }
+    ],
+    "hierarchy": {
+      "fafd1be5": {
+        "id": "fafd1be5",
+        "type": "item",
+        "locked": false,
+        "link": null,
+        "aspect_lock": false,
+        "visible": true,
+        "instance_name": "Heading 1"
+      },
+      "24b57007": {
+        "id": "24b57007",
+        "type": "item",
+        "locked": false,
+        "link": null,
+        "aspect_lock": false,
+        "visible": true,
+        "instance_name": "Label 93"
+      },
+      "26c7ec1b": {
+        "id": "26c7ec1b",
+        "type": "item",
+        "locked": false,
+        "link": null,
+        "aspect_lock": false,
+        "visible": true,
+        "instance_name": "Image 2"
+      },
+      "bb8bf20c": {
+        "id": "bb8bf20c",
+        "type": "item",
+        "locked": false,
+        "link": null,
+        "aspect_lock": false,
+        "visible": true,
+        "instance_name": "Heading 1 Copy 2"
+      },
+      "65da05fd": {
+        "id": "65da05fd",
+        "type": "item",
+        "locked": false,
+        "link": null,
+        "aspect_lock": false,
+        "visible": true,
+        "instance_name": "Exclamation Circle Icon 1"
+      },
+      "245db928": {
+        "id": "245db928",
+        "type": "item",
+        "locked": false,
+        "link": null,
+        "aspect_lock": false,
+        "visible": true,
+        "instance_name": "Heading 2"
+      },
+      "8292c9e6": {
+        "id": "8292c9e6",
+        "type": "item",
+        "locked": false,
+        "link": null,
+        "aspect_lock": false,
+        "visible": true,
+        "instance_name": "Heading 3"
+      },
+      "ba71591f": {
+        "id": "ba71591f",
+        "type": "item",
+        "locked": false,
+        "link": null,
+        "aspect_lock": false,
+        "visible": true,
+        "instance_name": "Heading 1 Copy 3"
+      },
+      "e04c329b": {
+        "id": "e04c329b",
+        "type": "item",
+        "locked": false,
+        "link": null,
+        "aspect_lock": false,
+        "visible": true,
+        "instance_name": "Heading 4"
+      },
+      "21339aa6": {
+        "id": "21339aa6",
+        "type": "item",
+        "locked": false,
+        "link": null,
+        "aspect_lock": false,
+        "visible": true,
+        "instance_name": "Paragraph 1"
+      },
+      "0cc09dc6": {
+        "id": "0cc09dc6",
+        "type": "item",
+        "locked": false,
+        "link": null,
+        "aspect_lock": false,
+        "visible": true,
+        "instance_name": "Paragraph 2"
+      },
+      "b5edd129": {
+        "id": "b5edd129",
+        "type": "item",
+        "locked": false,
+        "link": null,
+        "aspect_lock": false,
+        "visible": true,
+        "instance_name": "Heading 1 Copy 4"
+      }
+    },
+    "idMapping": {
+      "7bfd5de2": "fafd1be5",
+      "a85cbd5a": "24b57007",
+      "8ea24e7f": "26c7ec1b",
+      "9827648b": "bb8bf20c",
+      "d08c4c56": "65da05fd",
+      "e95ec777": "245db928",
+      "1d63a862": "8292c9e6",
+      "ca4d7892": "ba71591f",
+      "2582bf7d": "e04c329b",
+      "ffeb2b83": "21339aa6",
+      "d5a77b41": "0cc09dc6",
+      "32e0e310": "b5edd129"
+    },
+    "size": {
+      "width": 908,
+      "height": 554
+    },
+    "symbolInstances": {}
+  }
+}

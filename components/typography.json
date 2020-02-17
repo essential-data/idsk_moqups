@@ -1,11 +1,11 @@
 {
   "type": "selection",
-  "guid": "5ad13d1a",
-  "source": "aeceacb05",
+  "guid": "d8d4ad71",
+  "source": "a4c7e45b8",
   "data": {
     "nodes": [
       {
-        "id": "d104b2ec",
+        "id": "dee2d62b",
         "x": 82,
         "y": 26,
         "width": 172,
@@ -48,29 +48,29 @@
         "deps": {}
       },
       {
-        "id": "f15d9c3d",
+        "id": "c4a623ab",
         "x": 160,
-        "y": 284,
+        "y": 281,
         "width": 610,
         "height": 63,
         "rotation": 0,
-        "transform": "matrix(1 0 0 1 160 283.8)",
+        "transform": "matrix(1 0 0 1 160 280.92)",
         "inspectables": {
           "width_policy": "fixed",
           "height_policy": "fixed",
-          "color": "rgb(0,0,0)",
-          "font_size": 48,
+          "color": null,
+          "font_size": 52,
           "text_align": "left",
-          "bold": true,
-          "italic": false,
-          "underline": false,
-          "strikethrough": false,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "strikethrough": null,
           "small_caps": false,
           "uppercase": false,
           "letter_spacing": 0,
           "opacity": 100,
-          "font": "Source Sans Pro",
-          "font_weight": 400,
+          "font": null,
+          "font_weight": null,
           "aspect_lock": false,
           "fe_dropshadow_enabled": false,
           "fe_dropshadow_opacity": 75,
@@ -86,12 +86,26 @@
           "fe_blur_enabled": false,
           "fe_blur_size": 5
         },
-        "text": "Nadpis úrovne H1",
+        "text": "<p dir=\"auto\"><span data-font=\"font-source-sans-pro\" style=\"font-weight: bold; color: var(--mq-txt-color, rgb(0,0,0)); font-family: &quot;Source Sans Pro&quot;, serif;\">Tučný nadpis úrovne H1</span></p>",
         "name": "heading",
-        "deps": {}
+        "deps": {
+          "fonts_used": [
+            {
+              "weights": [
+                200,
+                300,
+                400,
+                600,
+                700,
+                900
+              ],
+              "family": "Source Sans Pro"
+            }
+          ]
+        }
       },
       {
-        "id": "1f58b224",
+        "id": "7edb4c7b",
         "x": 82,
         "y": 232,
         "width": 86,
@@ -101,19 +115,19 @@
         "inspectables": {
           "width_policy": "auto",
           "height_policy": "auto",
-          "color": "rgb(0,0,0)",
+          "color": null,
           "font_size": 24,
           "text_align": "left",
-          "bold": true,
-          "italic": false,
-          "underline": false,
-          "strikethrough": false,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "strikethrough": null,
           "small_caps": false,
           "uppercase": false,
           "letter_spacing": 0,
           "opacity": 100,
-          "font": "Source Sans Pro",
-          "font_weight": 400,
+          "font": null,
+          "font_weight": null,
           "aspect_lock": false,
           "fe_dropshadow_enabled": false,
           "fe_dropshadow_opacity": 75,
@@ -129,12 +143,26 @@
           "fe_blur_enabled": false,
           "fe_blur_size": 5
         },
-        "text": "Nadpisy",
+        "text": "<p dir=\"auto\"><span data-font=\"font-source-sans-pro\" style=\"font-weight: bold; color: var(--mq-txt-color, rgb(0,0,0)); font-family: &quot;Source Sans Pro&quot;, serif;\">Nadpisy</span></p>",
         "name": "heading",
-        "deps": {}
+        "deps": {
+          "fonts_used": [
+            {
+              "weights": [
+                200,
+                300,
+                400,
+                600,
+                700,
+                900
+              ],
+              "family": "Source Sans Pro"
+            }
+          ]
+        }
       },
       {
-        "id": "7d220764",
+        "id": "c1b3e9c9",
         "x": 164,
         "y": 356,
         "width": 136,
@@ -144,19 +172,19 @@
         "inspectables": {
           "width_policy": "auto",
           "height_policy": "auto",
-          "color": "rgb(0,0,0)",
+          "color": null,
           "font_size": 24,
           "text_align": "left",
-          "bold": false,
-          "italic": false,
-          "underline": false,
-          "strikethrough": false,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "strikethrough": null,
           "small_caps": false,
           "opacity": 100,
           "uppercase": false,
           "letter_spacing": 0,
-          "font": "Source Sans Pro",
-          "font_weight": 400,
+          "font": null,
+          "font_weight": null,
           "aspect_lock": false,
           "fe_dropshadow_enabled": false,
           "fe_dropshadow_opacity": 75,
@@ -172,12 +200,26 @@
           "fe_blur_enabled": false,
           "fe_blur_size": 5
         },
-        "text": "Velkosť: 48 px",
+        "text": "<p dir=\"auto\"><span data-font=\"font-source-sans-pro\" style=\"font-weight: 400; color: var(--mq-txt-color, rgb(0,0,0)); font-family: &quot;Source Sans Pro&quot;, serif;\">Velkosť: 52 px</span></p>",
         "name": "label",
-        "deps": {}
+        "deps": {
+          "fonts_used": [
+            {
+              "weights": [
+                200,
+                300,
+                400,
+                600,
+                700,
+                900
+              ],
+              "family": "Source Sans Pro"
+            }
+          ]
+        }
       },
       {
-        "id": "c83986bd",
+        "id": "083f8eb5",
         "x": 164,
         "y": 389,
         "width": 589,
@@ -220,7 +262,7 @@
         "deps": {}
       },
       {
-        "id": "1b498787",
+        "id": "e419841d",
         "x": 82,
         "y": 117,
         "width": 727,
@@ -274,29 +316,29 @@
         "deps": {}
       },
       {
-        "id": "e1fd55b0",
+        "id": "4f23f4ab",
         "x": 160,
-        "y": 435,
+        "y": 434,
         "width": 610,
         "height": 63,
         "rotation": 0,
-        "transform": "matrix(1 0 0 1 160 435.4)",
+        "transform": "matrix(1 0 0 1 160 434.289)",
         "inspectables": {
           "width_policy": "fixed",
           "height_policy": "fixed",
-          "color": "rgb(0,0,0)",
-          "font_size": 36,
+          "color": null,
+          "font_size": 38,
           "text_align": "left",
-          "bold": true,
-          "italic": false,
-          "underline": false,
-          "strikethrough": false,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "strikethrough": null,
           "small_caps": false,
           "uppercase": false,
           "letter_spacing": 0,
           "opacity": 100,
-          "font": "Source Sans Pro",
-          "font_weight": 400,
+          "font": null,
+          "font_weight": null,
           "aspect_lock": false,
           "fe_dropshadow_enabled": false,
           "fe_dropshadow_opacity": 75,
@@ -312,12 +354,14 @@
           "fe_blur_enabled": false,
           "fe_blur_size": 5
         },
-        "text": "<p dir=\"auto\">Nadpis úrovne H2</p>",
+        "text": "<p dir=\"auto\"><span data-font=\"font-source-sans-pro\" style=\"font-weight: bold; color: var(--mq-txt-color, rgb(0,0,0)); font-family: &quot;Source Sans Pro&quot;, serif;\">Tučný nadpis úrovne H2</span></p>",
         "name": "heading",
-        "deps": {}
+        "deps": {
+          "fonts_used": []
+        }
       },
       {
-        "id": "862f1e9b",
+        "id": "326a7c8e",
         "x": 160,
         "y": 498,
         "width": 136,
@@ -327,19 +371,19 @@
         "inspectables": {
           "width_policy": "auto",
           "height_policy": "auto",
-          "color": "rgb(0,0,0)",
+          "color": null,
           "font_size": 24,
           "text_align": "left",
-          "bold": false,
-          "italic": false,
-          "underline": false,
-          "strikethrough": false,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "strikethrough": null,
           "small_caps": false,
           "opacity": 100,
           "uppercase": false,
           "letter_spacing": 0,
-          "font": "Source Sans Pro",
-          "font_weight": 400,
+          "font": null,
+          "font_weight": null,
           "aspect_lock": false,
           "fe_dropshadow_enabled": false,
           "fe_dropshadow_opacity": 75,
@@ -355,12 +399,26 @@
           "fe_blur_enabled": false,
           "fe_blur_size": 5
         },
-        "text": "Velkosť: 36 px",
+        "text": "<p dir=\"auto\"><span data-font=\"font-source-sans-pro\" style=\"font-weight: 400; color: var(--mq-txt-color, rgb(0,0,0)); font-family: &quot;Source Sans Pro&quot;, serif;\">Velkosť: 38 px</span></p>",
         "name": "label",
-        "deps": {}
+        "deps": {
+          "fonts_used": [
+            {
+              "weights": [
+                200,
+                300,
+                400,
+                600,
+                700,
+                900
+              ],
+              "family": "Source Sans Pro"
+            }
+          ]
+        }
       },
       {
-        "id": "c5504a10",
+        "id": "e56ed1d0",
         "x": 160,
         "y": 531,
         "width": 291,
@@ -403,29 +461,29 @@
         "deps": {}
       },
       {
-        "id": "aa13f7d2",
+        "id": "156bc86f",
         "x": 161,
         "y": 585,
         "width": 610,
         "height": 63,
         "rotation": 0,
-        "transform": "matrix(1 0 0 1 161 585.4)",
+        "transform": "matrix(1 0 0 1 161 584.96)",
         "inspectables": {
           "width_policy": "fixed",
           "height_policy": "fixed",
-          "color": "rgb(0,0,0)",
-          "font_size": 24,
+          "color": null,
+          "font_size": 26,
           "text_align": "left",
-          "bold": true,
-          "italic": false,
-          "underline": false,
-          "strikethrough": false,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "strikethrough": null,
           "small_caps": false,
           "uppercase": false,
           "letter_spacing": 0,
           "opacity": 100,
-          "font": "Source Sans Pro",
-          "font_weight": 400,
+          "font": null,
+          "font_weight": null,
           "aspect_lock": false,
           "fe_dropshadow_enabled": false,
           "fe_dropshadow_opacity": 75,
@@ -441,12 +499,14 @@
           "fe_blur_enabled": false,
           "fe_blur_size": 5
         },
-        "text": "Nadpis úrovne H3",
+        "text": "<p dir=\"auto\"><span data-font=\"font-source-sans-pro\" style=\"font-weight: bold; color: var(--mq-txt-color, rgb(0,0,0)); font-family: &quot;Source Sans Pro&quot;, serif;\">Tučný nadpis úrovne H3</span></p>",
         "name": "heading",
-        "deps": {}
+        "deps": {
+          "fonts_used": []
+        }
       },
       {
-        "id": "1ff8380f",
+        "id": "d4ab2503",
         "x": 161,
         "y": 634,
         "width": 136,
@@ -456,19 +516,19 @@
         "inspectables": {
           "width_policy": "auto",
           "height_policy": "auto",
-          "color": "rgb(0,0,0)",
+          "color": null,
           "font_size": 24,
           "text_align": "left",
-          "bold": false,
-          "italic": false,
-          "underline": false,
-          "strikethrough": false,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "strikethrough": null,
           "small_caps": false,
           "opacity": 100,
           "uppercase": false,
           "letter_spacing": 0,
-          "font": "Source Sans Pro",
-          "font_weight": 400,
+          "font": null,
+          "font_weight": null,
           "aspect_lock": false,
           "fe_dropshadow_enabled": false,
           "fe_dropshadow_opacity": 75,
@@ -484,12 +544,14 @@
           "fe_blur_enabled": false,
           "fe_blur_size": 5
         },
-        "text": "Velkosť: 24 px",
+        "text": "<p dir=\"auto\"><span data-font=\"font-source-sans-pro\" style=\"font-weight: 400; color: var(--mq-txt-color, rgb(0,0,0)); font-family: &quot;Source Sans Pro&quot;, serif;\">Velkosť: 26 px</span></p>",
         "name": "label",
-        "deps": {}
+        "deps": {
+          "fonts_used": []
+        }
       },
       {
-        "id": "6ebbb07c",
+        "id": "b2c52183",
         "x": 160,
         "y": 667,
         "width": 291,
@@ -532,29 +594,29 @@
         "deps": {}
       },
       {
-        "id": "e02acb7e",
+        "id": "935264ed",
         "x": 160,
         "y": 723,
         "width": 610,
         "height": 63,
         "rotation": 0,
-        "transform": "matrix(1 0 0 1 160 723)",
+        "transform": "matrix(1 0 0 1 160 723.03)",
         "inspectables": {
           "width_policy": "fixed",
           "height_policy": "fixed",
-          "color": "rgb(0,0,0)",
-          "font_size": 19,
+          "color": null,
+          "font_size": 20,
           "text_align": "left",
-          "bold": true,
-          "italic": false,
-          "underline": false,
-          "strikethrough": false,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "strikethrough": null,
           "small_caps": false,
           "uppercase": false,
           "letter_spacing": 0,
           "opacity": 100,
-          "font": "Source Sans Pro",
-          "font_weight": 400,
+          "font": null,
+          "font_weight": null,
           "aspect_lock": false,
           "fe_dropshadow_enabled": false,
           "fe_dropshadow_opacity": 75,
@@ -570,12 +632,14 @@
           "fe_blur_enabled": false,
           "fe_blur_size": 5
         },
-        "text": "<p dir=\"auto\">Nadpis úrovne H4</p>",
+        "text": "<p dir=\"auto\"><span data-font=\"font-source-sans-pro\" style=\"font-weight: bold; color: var(--mq-txt-color, rgb(0,0,0)); font-family: &quot;Source Sans Pro&quot;, serif;\">Tučný nadpis úrovne H4</span></p>",
         "name": "heading",
-        "deps": {}
+        "deps": {
+          "fonts_used": []
+        }
       },
       {
-        "id": "f0f8baf8",
+        "id": "44f30d56",
         "x": 160,
         "y": 766,
         "width": 131,
@@ -585,19 +649,19 @@
         "inspectables": {
           "width_policy": "auto",
           "height_policy": "auto",
-          "color": "rgb(0,0,0)",
+          "color": null,
           "font_size": 24,
           "text_align": "left",
-          "bold": false,
-          "italic": false,
-          "underline": false,
-          "strikethrough": false,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "strikethrough": null,
           "small_caps": false,
           "opacity": 100,
           "uppercase": false,
           "letter_spacing": 0,
-          "font": "Source Sans Pro",
-          "font_weight": 400,
+          "font": null,
+          "font_weight": null,
           "aspect_lock": false,
           "fe_dropshadow_enabled": false,
           "fe_dropshadow_opacity": 75,
@@ -613,12 +677,26 @@
           "fe_blur_enabled": false,
           "fe_blur_size": 5
         },
-        "text": "Velkosť: 19px",
+        "text": "<p dir=\"auto\"><span data-font=\"font-source-sans-pro\" style=\"font-weight: 400; color: var(--mq-txt-color, rgb(0,0,0)); font-family: &quot;Source Sans Pro&quot;, serif;\">Velkosť: 20px</span></p>",
         "name": "label",
-        "deps": {}
+        "deps": {
+          "fonts_used": [
+            {
+              "weights": [
+                200,
+                300,
+                400,
+                600,
+                700,
+                900
+              ],
+              "family": "Source Sans Pro"
+            }
+          ]
+        }
       },
       {
-        "id": "02c973e8",
+        "id": "4718ca86",
         "x": 160,
         "y": 799,
         "width": 302,
@@ -661,7 +739,7 @@
         "deps": {}
       },
       {
-        "id": "648ee664",
+        "id": "6a774334",
         "x": 82,
         "y": 851,
         "width": 98,
@@ -704,29 +782,29 @@
         "deps": {}
       },
       {
-        "id": "0eb7f7c4",
+        "id": "ced92817",
         "x": 160,
-        "y": 898,
-        "width": 336,
-        "height": 33,
+        "y": 896,
+        "width": 364,
+        "height": 36,
         "rotation": 0,
-        "transform": "matrix(1 0 0 1 160 897.789)",
+        "transform": "matrix(1 0 0 1 160 895.849)",
         "inspectables": {
           "width_policy": "auto",
           "height_policy": "auto",
-          "color": "rgb(0,0,0)",
-          "font_size": 24,
+          "color": null,
+          "font_size": 26,
           "text_align": "left",
-          "bold": false,
-          "italic": false,
-          "underline": false,
-          "strikethrough": false,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "strikethrough": null,
           "small_caps": false,
           "opacity": 100,
           "uppercase": false,
           "letter_spacing": 0,
-          "font": "Source Sans Pro",
-          "font_weight": 400,
+          "font": null,
+          "font_weight": null,
           "aspect_lock": false,
           "fe_dropshadow_enabled": false,
           "fe_dropshadow_opacity": 75,
@@ -742,12 +820,26 @@
           "fe_blur_enabled": false,
           "fe_blur_size": 5
         },
-        "text": "Úvodný odstavec vo veľkosti 24px",
+        "text": "<p dir=\"auto\"><span data-font=\"font-source-sans-pro\" style=\"font-weight: 400; color: var(--mq-txt-color, rgb(0,0,0)); font-family: &quot;Source Sans Pro&quot;, serif;\">Úvodný odstavec vo veľkosti 26px</span></p>",
         "name": "label",
-        "deps": {}
+        "deps": {
+          "fonts_used": [
+            {
+              "weights": [
+                200,
+                300,
+                400,
+                600,
+                700,
+                900
+              ],
+              "family": "Source Sans Pro"
+            }
+          ]
+        }
       },
       {
-        "id": "2dc6fab4",
+        "id": "02046b31",
         "x": 160,
         "y": 970,
         "width": 219,
@@ -790,7 +882,7 @@
         "deps": {}
       },
       {
-        "id": "b4c32ffe",
+        "id": "0af97698",
         "x": 82,
         "y": 1016,
         "width": 80,
@@ -833,7 +925,7 @@
         "deps": {}
       },
       {
-        "id": "e2e1a1fd",
+        "id": "7c423eea",
         "x": 160,
         "y": 1053,
         "width": 421,
@@ -843,19 +935,19 @@
         "inspectables": {
           "width_policy": "auto",
           "height_policy": "fixed",
-          "color": "rgb(0, 94, 165)",
+          "color": null,
           "font_size": 19,
           "text_align": "left",
-          "bold": false,
-          "italic": false,
-          "underline": true,
-          "strikethrough": false,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "strikethrough": null,
           "small_caps": false,
           "opacity": 100,
           "uppercase": false,
           "letter_spacing": 0,
-          "font": "Source Sans Pro",
-          "font_weight": 400,
+          "font": null,
+          "font_weight": null,
           "aspect_lock": false,
           "fe_dropshadow_enabled": false,
           "fe_dropshadow_opacity": 75,
@@ -871,12 +963,26 @@
           "fe_blur_enabled": false,
           "fe_blur_size": 5
         },
-        "text": "<p dir=\"auto\">Toto je odkaz vo veľkosti 19px a jeho farba je #005EA5</p>",
+        "text": "<p dir=\"auto\"><u data-font=\"font-source-sans-pro\" style=\"font-weight: 400; color: var(--mq-txt-color, rgb(0, 94, 165)); font-family: &quot;Source Sans Pro&quot;, serif;\">Toto je odkaz vo veľkosti 19px a jeho farba je #005EA5</u></p>",
         "name": "link",
-        "deps": {}
+        "deps": {
+          "fonts_used": [
+            {
+              "weights": [
+                200,
+                300,
+                400,
+                600,
+                700,
+                900
+              ],
+              "family": "Source Sans Pro"
+            }
+          ]
+        }
       },
       {
-        "id": "fa2af240",
+        "id": "572b6b3d",
         "x": 160,
         "y": 1116,
         "width": 525,
@@ -919,7 +1025,7 @@
         "deps": {}
       },
       {
-        "id": "9ea10bd3",
+        "id": "7b5dd58f",
         "x": 160,
         "y": 1086,
         "width": 639,
@@ -962,7 +1068,7 @@
         "deps": {}
       },
       {
-        "id": "a190f1ef",
+        "id": "5d152577",
         "x": 840,
         "y": 4,
         "width": 151,
@@ -1010,7 +1116,7 @@
         "deps": {}
       },
       {
-        "id": "23a97e58",
+        "id": "c2b68350",
         "x": 83,
         "y": 89,
         "width": 370,
@@ -1053,7 +1159,7 @@
         "deps": {}
       },
       {
-        "id": "f21a60f6",
+        "id": "3a2e41ea",
         "x": 160,
         "y": 1232,
         "width": 105,
@@ -1096,7 +1202,7 @@
         "deps": {}
       },
       {
-        "id": "cb08f3ac",
+        "id": "bb092e81",
         "x": 277,
         "y": 1239,
         "width": 6,
@@ -1143,7 +1249,7 @@
         "deps": {}
       },
       {
-        "id": "9e2b9e06",
+        "id": "357e01aa",
         "x": 295,
         "y": 1232,
         "width": 76,
@@ -1186,7 +1292,7 @@
         "deps": {}
       },
       {
-        "id": "593f9e01",
+        "id": "354f88ab",
         "x": 383,
         "y": 1239,
         "width": 6,
@@ -1233,7 +1339,7 @@
         "deps": {}
       },
       {
-        "id": "a1a9d0e3",
+        "id": "f95db4bc",
         "x": 401,
         "y": 1232,
         "width": 113,
@@ -1276,7 +1382,7 @@
         "deps": {}
       },
       {
-        "id": "e7024c56",
+        "id": "5e73bec3",
         "x": 84,
         "y": 1192,
         "width": 237,
@@ -1319,7 +1425,7 @@
         "deps": {}
       },
       {
-        "id": "1de97c56",
+        "id": "f3b73adf",
         "x": 84,
         "y": 1285,
         "width": 136,
@@ -1362,7 +1468,7 @@
         "deps": {}
       },
       {
-        "id": "37291813",
+        "id": "a35225eb",
         "x": 88,
         "y": 1328,
         "width": 1,
@@ -1398,7 +1504,7 @@
         "deps": {}
       },
       {
-        "id": "aeb2e24d",
+        "id": "097ab880",
         "x": 108,
         "y": 1333,
         "width": 442,
@@ -1441,7 +1547,7 @@
         "deps": {}
       },
       {
-        "id": "74bb3761",
+        "id": "97665b57",
         "x": 88,
         "y": 1411,
         "width": 174,
@@ -1484,7 +1590,7 @@
         "deps": {}
       },
       {
-        "id": "e878b903",
+        "id": "0606fbf6",
         "x": 88,
         "y": 1458,
         "width": 793,
@@ -1520,7 +1626,7 @@
         "deps": {}
       },
       {
-        "id": "5fbc8cb7",
+        "id": "2592e463",
         "x": 82,
         "y": 111,
         "width": 561,
@@ -1563,7 +1669,7 @@
         "deps": {}
       },
       {
-        "id": "4c1e5fcf",
+        "id": "ab5fb7a7",
         "x": 113,
         "y": 1675,
         "width": 265,
@@ -1606,7 +1712,7 @@
         "deps": {}
       },
       {
-        "id": "cb239ae2",
+        "id": "3ac94e17",
         "x": 86,
         "y": 1683,
         "width": 12,
@@ -1641,7 +1747,7 @@
         "deps": {}
       },
       {
-        "id": "1f0a6222",
+        "id": "80a31920",
         "x": 113,
         "y": 1701,
         "width": 103,
@@ -1684,7 +1790,7 @@
         "deps": {}
       },
       {
-        "id": "9f155e8b",
+        "id": "9432596b",
         "x": 88,
         "y": 1703,
         "width": 1,
@@ -1720,7 +1826,7 @@
         "deps": {}
       },
       {
-        "id": "970dd0b0",
+        "id": "c940e26f",
         "x": 88,
         "y": 1513,
         "width": 407,
@@ -1763,7 +1869,7 @@
         "deps": {}
       },
       {
-        "id": "6aea9fe2",
+        "id": "07ee2976",
         "x": 88,
         "y": 1561,
         "width": 118,
@@ -1806,7 +1912,7 @@
         "deps": {}
       },
       {
-        "id": "36c9d62d",
+        "id": "c4d8340c",
         "x": 87,
         "y": 1650,
         "width": 112,
@@ -1849,7 +1955,7 @@
         "deps": {}
       },
       {
-        "id": "b0117471",
+        "id": "34efec49",
         "x": 113,
         "y": 1593,
         "width": 265,
@@ -1892,7 +1998,7 @@
         "deps": {}
       },
       {
-        "id": "fee9baf8",
+        "id": "38ebed6c",
         "x": 88,
         "y": 1599,
         "width": 12,
@@ -1927,7 +2033,7 @@
         "deps": {}
       },
       {
-        "id": "a8577b53",
+        "id": "8ebee738",
         "x": 793,
         "y": 83,
         "width": 207,
@@ -1968,31 +2074,87 @@
         "text": "<p dir=\"auto\">Skrytý text pridaný: 31<strong>.10.2019</strong></p>",
         "name": "note",
         "deps": {}
+      },
+      {
+        "id": "88690cc1",
+        "x": 391,
+        "y": 974,
+        "width": 154,
+        "height": 22,
+        "rotation": 0,
+        "transform": "matrix(1 0 0 1 391 973.91)",
+        "inspectables": {
+          "width_policy": "auto",
+          "height_policy": "auto",
+          "color": null,
+          "font_size": 16,
+          "text_align": "left",
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "strikethrough": null,
+          "small_caps": false,
+          "opacity": 100,
+          "uppercase": false,
+          "letter_spacing": 0,
+          "font": null,
+          "font_weight": null,
+          "aspect_lock": false,
+          "fe_dropshadow_enabled": false,
+          "fe_dropshadow_opacity": 75,
+          "fe_dropshadow_angle": 90,
+          "fe_dropshadow_distance": 5,
+          "fe_dropshadow_size": 5,
+          "fe_dropshadow_color": "rgb(0, 0, 0)",
+          "vertical_align": "middle",
+          "padding_left": 0,
+          "padding_right": 0,
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "fe_blur_enabled": false,
+          "fe_blur_size": 5
+        },
+        "text": "<p dir=\"auto\"><span data-font=\"font-source-sans-pro\" style=\"font-weight: 400; color: var(--mq-txt-color, rgb(11,12,12)); font-family: &quot;Source Sans Pro&quot;, serif;\">Menšie obrazovky 16px</span></p>",
+        "name": "label",
+        "deps": {
+          "fonts_used": [
+            {
+              "weights": [
+                200,
+                300,
+                400,
+                600,
+                700,
+                900
+              ],
+              "family": "Source Sans Pro"
+            }
+          ]
+        }
       }
     ],
     "hierarchy": {
-      "37291813": {
-        "id": "37291813",
+      "156bc86f": {
+        "id": "156bc86f",
         "type": "item",
-        "parent": "_GROUP_89ff84e8",
+        "parent": "_GROUP_77703362",
         "locked": false,
         "link": null,
         "aspect_lock": false,
         "visible": true,
-        "instance_name": "Vertical Line 1"
+        "instance_name": "Heading 1 Copy 2"
       },
-      "c5504a10": {
-        "id": "c5504a10",
+      "f3b73adf": {
+        "id": "f3b73adf",
         "type": "item",
-        "parent": "_GROUP_73d0477f",
         "locked": false,
         "link": null,
         "aspect_lock": false,
         "visible": true,
-        "instance_name": "Label 1 Copy 2"
+        "instance_name": "Heading 1 Copy 4"
       },
-      "_GROUP_73d0477f": {
-        "id": "_GROUP_73d0477f",
+      "_GROUP_5f3f35e5": {
+        "id": "_GROUP_5f3f35e5",
         "type": "group",
         "locked": false,
         "link": null,
@@ -2001,8 +2163,8 @@
         "instance_name": "Group 3",
         "expanded": false
       },
-      "_GROUP_e2dc1c7a": {
-        "id": "_GROUP_e2dc1c7a",
+      "_GROUP_77703362": {
+        "id": "_GROUP_77703362",
         "type": "group",
         "locked": false,
         "link": null,
@@ -2011,8 +2173,8 @@
         "instance_name": "Group 3",
         "expanded": true
       },
-      "_GROUP_7a55ec9b": {
-        "id": "_GROUP_7a55ec9b",
+      "_GROUP_5038a895": {
+        "id": "_GROUP_5038a895",
         "type": "group",
         "locked": false,
         "link": null,
@@ -2021,8 +2183,8 @@
         "instance_name": "Group 1",
         "expanded": false
       },
-      "_GROUP_ced4920b": {
-        "id": "_GROUP_ced4920b",
+      "_GROUP_86623abb": {
+        "id": "_GROUP_86623abb",
         "type": "group",
         "locked": false,
         "link": null,
@@ -2031,8 +2193,8 @@
         "instance_name": "Breadcrumbs",
         "expanded": false
       },
-      "_GROUP_89ff84e8": {
-        "id": "_GROUP_89ff84e8",
+      "_GROUP_bbdc7fbe": {
+        "id": "_GROUP_bbdc7fbe",
         "type": "group",
         "locked": false,
         "link": null,
@@ -2041,10 +2203,10 @@
         "instance_name": "Group 5",
         "expanded": false
       },
-      "_GROUP_fd8c1d57": {
-        "id": "_GROUP_fd8c1d57",
+      "_GROUP_831e28e9": {
+        "id": "_GROUP_831e28e9",
         "type": "group",
-        "parent": "_GROUP_9d33fde7",
+        "parent": "_GROUP_1c7f9e90",
         "locked": false,
         "link": null,
         "aspect_lock": false,
@@ -2052,8 +2214,8 @@
         "instance_name": "Field 1",
         "expanded": false
       },
-      "_GROUP_9d33fde7": {
-        "id": "_GROUP_9d33fde7",
+      "_GROUP_1c7f9e90": {
+        "id": "_GROUP_1c7f9e90",
         "type": "group",
         "locked": false,
         "link": null,
@@ -2062,10 +2224,10 @@
         "instance_name": "Group 9",
         "expanded": false
       },
-      "_GROUP_82715cce": {
-        "id": "_GROUP_82715cce",
+      "_GROUP_54be7276": {
+        "id": "_GROUP_54be7276",
         "type": "group",
-        "parent": "_GROUP_b4d5c6be",
+        "parent": "_GROUP_ffbbd9f8",
         "locked": false,
         "link": null,
         "aspect_lock": false,
@@ -2073,8 +2235,8 @@
         "instance_name": "Field 2",
         "expanded": false
       },
-      "_GROUP_b4d5c6be": {
-        "id": "_GROUP_b4d5c6be",
+      "_GROUP_ffbbd9f8": {
+        "id": "_GROUP_ffbbd9f8",
         "type": "group",
         "locked": false,
         "link": null,
@@ -2083,8 +2245,8 @@
         "instance_name": "Group 8",
         "expanded": false
       },
-      "d104b2ec": {
-        "id": "d104b2ec",
+      "dee2d62b": {
+        "id": "dee2d62b",
         "type": "item",
         "locked": false,
         "link": null,
@@ -2092,8 +2254,8 @@
         "visible": true,
         "instance_name": "Heading 1"
       },
-      "f15d9c3d": {
-        "id": "f15d9c3d",
+      "c4a623ab": {
+        "id": "c4a623ab",
         "type": "item",
         "locked": false,
         "link": null,
@@ -2101,8 +2263,8 @@
         "visible": true,
         "instance_name": "Heading 1"
       },
-      "1f58b224": {
-        "id": "1f58b224",
+      "7edb4c7b": {
+        "id": "7edb4c7b",
         "type": "item",
         "locked": false,
         "link": null,
@@ -2110,8 +2272,8 @@
         "visible": true,
         "instance_name": "Heading 1 Copy"
       },
-      "7d220764": {
-        "id": "7d220764",
+      "c1b3e9c9": {
+        "id": "c1b3e9c9",
         "type": "item",
         "locked": false,
         "link": null,
@@ -2119,8 +2281,8 @@
         "visible": true,
         "instance_name": "Label 1"
       },
-      "c83986bd": {
-        "id": "c83986bd",
+      "083f8eb5": {
+        "id": "083f8eb5",
         "type": "item",
         "locked": false,
         "link": null,
@@ -2128,8 +2290,8 @@
         "visible": true,
         "instance_name": "Label 1 Copy 2"
       },
-      "1b498787": {
-        "id": "1b498787",
+      "e419841d": {
+        "id": "e419841d",
         "type": "item",
         "locked": false,
         "link": null,
@@ -2137,88 +2299,88 @@
         "visible": true,
         "instance_name": "Text area 1"
       },
-      "e1fd55b0": {
-        "id": "e1fd55b0",
+      "4f23f4ab": {
+        "id": "4f23f4ab",
         "type": "item",
-        "parent": "_GROUP_73d0477f",
+        "parent": "_GROUP_5f3f35e5",
         "locked": false,
         "link": null,
         "aspect_lock": false,
         "visible": true,
         "instance_name": "Heading 1 Copy"
       },
-      "862f1e9b": {
-        "id": "862f1e9b",
+      "326a7c8e": {
+        "id": "326a7c8e",
         "type": "item",
-        "parent": "_GROUP_73d0477f",
+        "parent": "_GROUP_5f3f35e5",
         "locked": false,
         "link": null,
         "aspect_lock": false,
         "visible": true,
         "instance_name": "Label 1"
       },
-      "aa13f7d2": {
-        "id": "aa13f7d2",
+      "e56ed1d0": {
+        "id": "e56ed1d0",
         "type": "item",
-        "parent": "_GROUP_e2dc1c7a",
-        "locked": false,
-        "link": null,
-        "aspect_lock": false,
-        "visible": true,
-        "instance_name": "Heading 1 Copy 2"
-      },
-      "1ff8380f": {
-        "id": "1ff8380f",
-        "type": "item",
-        "parent": "_GROUP_e2dc1c7a",
-        "locked": false,
-        "link": null,
-        "aspect_lock": false,
-        "visible": true,
-        "instance_name": "Label 1"
-      },
-      "6ebbb07c": {
-        "id": "6ebbb07c",
-        "type": "item",
-        "parent": "_GROUP_e2dc1c7a",
+        "parent": "_GROUP_5f3f35e5",
         "locked": false,
         "link": null,
         "aspect_lock": false,
         "visible": true,
         "instance_name": "Label 1 Copy 2"
       },
-      "e02acb7e": {
-        "id": "e02acb7e",
+      "d4ab2503": {
+        "id": "d4ab2503",
         "type": "item",
-        "parent": "_GROUP_7a55ec9b",
+        "parent": "_GROUP_77703362",
+        "locked": false,
+        "link": null,
+        "aspect_lock": false,
+        "visible": true,
+        "instance_name": "Label 1"
+      },
+      "b2c52183": {
+        "id": "b2c52183",
+        "type": "item",
+        "parent": "_GROUP_77703362",
+        "locked": false,
+        "link": null,
+        "aspect_lock": false,
+        "visible": true,
+        "instance_name": "Label 1 Copy 2"
+      },
+      "935264ed": {
+        "id": "935264ed",
+        "type": "item",
+        "parent": "_GROUP_5038a895",
         "locked": false,
         "link": null,
         "aspect_lock": false,
         "visible": true,
         "instance_name": "Heading 1 Copy 3"
       },
-      "f0f8baf8": {
-        "id": "f0f8baf8",
+      "44f30d56": {
+        "id": "44f30d56",
         "type": "item",
-        "parent": "_GROUP_7a55ec9b",
+        "parent": "_GROUP_5038a895",
         "locked": false,
         "link": null,
         "aspect_lock": false,
         "visible": true,
         "instance_name": "Label 1 Copy"
       },
-      "02c973e8": {
-        "id": "02c973e8",
+      "4718ca86": {
+        "id": "4718ca86",
         "type": "item",
-        "parent": "_GROUP_7a55ec9b",
+        "parent": "_GROUP_5038a895",
         "locked": false,
         "link": null,
         "aspect_lock": false,
         "visible": true,
         "instance_name": "Label 1 Copy 3"
       },
-      "648ee664": {
-        "id": "648ee664",
+      "6a774334": {
+        "id": "6a774334",
         "type": "item",
         "locked": false,
         "link": null,
@@ -2226,8 +2388,8 @@
         "visible": true,
         "instance_name": "Heading 1 Copy 2"
       },
-      "0eb7f7c4": {
-        "id": "0eb7f7c4",
+      "ced92817": {
+        "id": "ced92817",
         "type": "item",
         "locked": false,
         "link": null,
@@ -2235,8 +2397,8 @@
         "visible": true,
         "instance_name": "Label 1 Copy 3"
       },
-      "2dc6fab4": {
-        "id": "2dc6fab4",
+      "02046b31": {
+        "id": "02046b31",
         "type": "item",
         "locked": false,
         "link": null,
@@ -2244,8 +2406,8 @@
         "visible": true,
         "instance_name": "Label 1 Copy 4"
       },
-      "b4c32ffe": {
-        "id": "b4c32ffe",
+      "0af97698": {
+        "id": "0af97698",
         "type": "item",
         "locked": false,
         "link": null,
@@ -2253,8 +2415,8 @@
         "visible": true,
         "instance_name": "Heading 1 Copy 3"
       },
-      "e2e1a1fd": {
-        "id": "e2e1a1fd",
+      "7c423eea": {
+        "id": "7c423eea",
         "type": "item",
         "locked": false,
         "link": null,
@@ -2262,8 +2424,8 @@
         "visible": true,
         "instance_name": "Link 1"
       },
-      "fa2af240": {
-        "id": "fa2af240",
+      "572b6b3d": {
+        "id": "572b6b3d",
         "type": "item",
         "locked": false,
         "link": null,
@@ -2271,8 +2433,8 @@
         "visible": true,
         "instance_name": "Link 1 Copy"
       },
-      "9ea10bd3": {
-        "id": "9ea10bd3",
+      "7b5dd58f": {
+        "id": "7b5dd58f",
         "type": "item",
         "locked": false,
         "link": null,
@@ -2280,8 +2442,8 @@
         "visible": true,
         "instance_name": "Link 1 Copy 2"
       },
-      "a190f1ef": {
-        "id": "a190f1ef",
+      "5d152577": {
+        "id": "5d152577",
         "type": "item",
         "locked": false,
         "link": null,
@@ -2289,8 +2451,8 @@
         "visible": true,
         "instance_name": "Image 2"
       },
-      "23a97e58": {
-        "id": "23a97e58",
+      "c2b68350": {
+        "id": "c2b68350",
         "type": "item",
         "locked": false,
         "link": null,
@@ -2298,58 +2460,58 @@
         "visible": true,
         "instance_name": "Label 93"
       },
-      "f21a60f6": {
-        "id": "f21a60f6",
+      "3a2e41ea": {
+        "id": "3a2e41ea",
         "type": "item",
-        "parent": "_GROUP_ced4920b",
+        "parent": "_GROUP_86623abb",
         "locked": false,
         "link": null,
         "aspect_lock": false,
         "visible": true,
         "instance_name": "Label 1"
       },
-      "cb08f3ac": {
-        "id": "cb08f3ac",
+      "bb092e81": {
+        "id": "bb092e81",
         "type": "item",
-        "parent": "_GROUP_ced4920b",
+        "parent": "_GROUP_86623abb",
         "locked": false,
         "link": null,
         "aspect_lock": false,
         "visible": true,
         "instance_name": "Image 1"
       },
-      "9e2b9e06": {
-        "id": "9e2b9e06",
+      "357e01aa": {
+        "id": "357e01aa",
         "type": "item",
-        "parent": "_GROUP_ced4920b",
+        "parent": "_GROUP_86623abb",
         "locked": false,
         "link": null,
         "aspect_lock": false,
         "visible": true,
         "instance_name": "Label 1"
       },
-      "593f9e01": {
-        "id": "593f9e01",
+      "354f88ab": {
+        "id": "354f88ab",
         "type": "item",
-        "parent": "_GROUP_ced4920b",
+        "parent": "_GROUP_86623abb",
         "locked": false,
         "link": null,
         "aspect_lock": false,
         "visible": true,
         "instance_name": "Image 1"
       },
-      "a1a9d0e3": {
-        "id": "a1a9d0e3",
+      "f95db4bc": {
+        "id": "f95db4bc",
         "type": "item",
-        "parent": "_GROUP_ced4920b",
+        "parent": "_GROUP_86623abb",
         "locked": false,
         "link": null,
         "aspect_lock": false,
         "visible": true,
         "instance_name": "Label 1"
       },
-      "e7024c56": {
-        "id": "e7024c56",
+      "5e73bec3": {
+        "id": "5e73bec3",
         "type": "item",
         "locked": false,
         "link": null,
@@ -2357,27 +2519,28 @@
         "visible": true,
         "instance_name": "Heading 1 Copy 4"
       },
-      "1de97c56": {
-        "id": "1de97c56",
+      "a35225eb": {
+        "id": "a35225eb",
         "type": "item",
+        "parent": "_GROUP_bbdc7fbe",
         "locked": false,
         "link": null,
         "aspect_lock": false,
         "visible": true,
-        "instance_name": "Heading 1 Copy 4"
+        "instance_name": "Vertical Line 1"
       },
-      "aeb2e24d": {
-        "id": "aeb2e24d",
+      "097ab880": {
+        "id": "097ab880",
         "type": "item",
-        "parent": "_GROUP_89ff84e8",
+        "parent": "_GROUP_bbdc7fbe",
         "locked": false,
         "link": null,
         "aspect_lock": false,
         "visible": true,
         "instance_name": "Label 15"
       },
-      "74bb3761": {
-        "id": "74bb3761",
+      "97665b57": {
+        "id": "97665b57",
         "type": "item",
         "locked": false,
         "link": null,
@@ -2385,8 +2548,8 @@
         "visible": true,
         "instance_name": "Heading 1 Copy 5"
       },
-      "e878b903": {
-        "id": "e878b903",
+      "0606fbf6": {
+        "id": "0606fbf6",
         "type": "item",
         "locked": false,
         "link": null,
@@ -2394,8 +2557,8 @@
         "visible": true,
         "instance_name": "Horizontal Line 1"
       },
-      "5fbc8cb7": {
-        "id": "5fbc8cb7",
+      "2592e463": {
+        "id": "2592e463",
         "type": "item",
         "locked": false,
         "link": null,
@@ -2403,48 +2566,48 @@
         "visible": true,
         "instance_name": "Label 94"
       },
-      "4c1e5fcf": {
-        "id": "4c1e5fcf",
+      "ab5fb7a7": {
+        "id": "ab5fb7a7",
         "type": "item",
-        "parent": "_GROUP_fd8c1d57",
+        "parent": "_GROUP_831e28e9",
         "locked": false,
         "link": null,
         "aspect_lock": false,
         "visible": true,
         "instance_name": "Label 12"
       },
-      "cb239ae2": {
-        "id": "cb239ae2",
+      "3ac94e17": {
+        "id": "3ac94e17",
         "type": "item",
-        "parent": "_GROUP_9d33fde7",
+        "parent": "_GROUP_1c7f9e90",
         "locked": false,
         "link": null,
         "aspect_lock": false,
         "visible": true,
         "instance_name": "Plain SVG 4"
       },
-      "1f0a6222": {
-        "id": "1f0a6222",
+      "80a31920": {
+        "id": "80a31920",
         "type": "item",
-        "parent": "_GROUP_9d33fde7",
+        "parent": "_GROUP_1c7f9e90",
         "locked": false,
         "link": null,
         "aspect_lock": false,
         "visible": true,
         "instance_name": "Label 38"
       },
-      "9f155e8b": {
-        "id": "9f155e8b",
+      "9432596b": {
+        "id": "9432596b",
         "type": "item",
-        "parent": "_GROUP_9d33fde7",
+        "parent": "_GROUP_1c7f9e90",
         "locked": false,
         "link": null,
         "aspect_lock": false,
         "visible": true,
         "instance_name": "Vertical Line 2"
       },
-      "970dd0b0": {
-        "id": "970dd0b0",
+      "c940e26f": {
+        "id": "c940e26f",
         "type": "item",
         "locked": false,
         "link": null,
@@ -2452,8 +2615,8 @@
         "visible": true,
         "instance_name": "Heading 1 Copy 6"
       },
-      "6aea9fe2": {
-        "id": "6aea9fe2",
+      "07ee2976": {
+        "id": "07ee2976",
         "type": "item",
         "locked": false,
         "link": null,
@@ -2461,8 +2624,8 @@
         "visible": true,
         "instance_name": "Heading 1 Copy 7"
       },
-      "36c9d62d": {
-        "id": "36c9d62d",
+      "c4d8340c": {
+        "id": "c4d8340c",
         "type": "item",
         "locked": false,
         "link": null,
@@ -2470,92 +2633,102 @@
         "visible": true,
         "instance_name": "Heading 1 Copy 8"
       },
-      "b0117471": {
-        "id": "b0117471",
+      "34efec49": {
+        "id": "34efec49",
         "type": "item",
-        "parent": "_GROUP_82715cce",
+        "parent": "_GROUP_54be7276",
         "locked": false,
         "link": null,
         "aspect_lock": false,
         "visible": true,
         "instance_name": "Label 13"
       },
-      "fee9baf8": {
-        "id": "fee9baf8",
+      "38ebed6c": {
+        "id": "38ebed6c",
         "type": "item",
-        "parent": "_GROUP_b4d5c6be",
+        "parent": "_GROUP_ffbbd9f8",
         "locked": false,
         "link": null,
         "aspect_lock": false,
         "visible": true,
         "instance_name": "Plain SVG 5"
       },
-      "a8577b53": {
-        "id": "a8577b53",
+      "8ebee738": {
+        "id": "8ebee738",
         "type": "item",
         "locked": false,
         "link": null,
         "aspect_lock": false,
         "visible": true,
         "instance_name": "Note 2"
+      },
+      "88690cc1": {
+        "id": "88690cc1",
+        "type": "item",
+        "locked": false,
+        "link": null,
+        "aspect_lock": false,
+        "visible": true,
+        "instance_name": "Label 1 Copy 5"
       }
     },
     "idMapping": {
-      "92129092": "c5504a10",
-      "_GROUP_6b3f18e4": "_GROUP_73d0477f",
-      "_GROUP_83db9a0b": "_GROUP_e2dc1c7a",
-      "_GROUP_2cf79d05": "_GROUP_7a55ec9b",
-      "_GROUP_7d94e075": "_GROUP_ced4920b",
-      "_GROUP_fc0c01ad": "_GROUP_89ff84e8",
-      "_GROUP_8dbb7ea7": "_GROUP_fd8c1d57",
-      "_GROUP_5322eef6": "_GROUP_9d33fde7",
-      "_GROUP_58519ae9": "_GROUP_82715cce",
-      "_GROUP_f3ddfd26": "_GROUP_b4d5c6be",
-      "ee8f271e": "d104b2ec",
-      "b7de0a0b": "f15d9c3d",
-      "a8556ad9": "1f58b224",
-      "91ffc465": "7d220764",
-      "7b8d99cf": "c83986bd",
-      "ba15e460": "1b498787",
-      "32193af1": "e1fd55b0",
-      "4b2cd93e": "862f1e9b",
-      "60b956f4": "aa13f7d2",
-      "b698ca77": "1ff8380f",
-      "b3e0382b": "6ebbb07c",
-      "7cf47c61": "e02acb7e",
-      "2f53fb1f": "f0f8baf8",
-      "bdc77232": "02c973e8",
-      "25e4423c": "648ee664",
-      "b28e8661": "0eb7f7c4",
-      "20110bc9": "2dc6fab4",
-      "189165f0": "b4c32ffe",
-      "4278260e": "e2e1a1fd",
-      "bebb4c08": "fa2af240",
-      "0aed97cd": "9ea10bd3",
-      "4467f361": "a190f1ef",
-      "0663f5d9": "23a97e58",
-      "bd0567a1": "f21a60f6",
-      "6d22e4df": "cb08f3ac",
-      "b42be532": "9e2b9e06",
-      "ccf467b2": "593f9e01",
-      "3a39cf68": "a1a9d0e3",
-      "319353f4": "e7024c56",
-      "56adf584": "1de97c56",
-      "ce54f32b": "37291813",
-      "68e967b2": "aeb2e24d",
-      "d788fa65": "74bb3761",
-      "053cf6d8": "e878b903",
-      "5f01a5c1": "5fbc8cb7",
-      "93c10949": "4c1e5fcf",
-      "75abc7f9": "cb239ae2",
-      "eef48def": "1f0a6222",
-      "4c2d37b0": "9f155e8b",
-      "62e2d48a": "970dd0b0",
-      "28a442bc": "6aea9fe2",
-      "596145ce": "36c9d62d",
-      "d7d0fc99": "b0117471",
-      "1f87020c": "fee9baf8",
-      "7f7ffe1f": "a8577b53"
+      "22973227": "156bc86f",
+      "62733627": "f3b73adf",
+      "_GROUP_8f9ab634": "_GROUP_5f3f35e5",
+      "_GROUP_bc7854dc": "_GROUP_77703362",
+      "_GROUP_562ac9d6": "_GROUP_5038a895",
+      "_GROUP_26b5b5d5": "_GROUP_86623abb",
+      "_GROUP_bfdeb5d6": "_GROUP_bbdc7fbe",
+      "_GROUP_1cce0fcb": "_GROUP_831e28e9",
+      "_GROUP_25a8056d": "_GROUP_1c7f9e90",
+      "_GROUP_38a2654a": "_GROUP_54be7276",
+      "_GROUP_df7a1c97": "_GROUP_ffbbd9f8",
+      "2fc3d99e": "dee2d62b",
+      "07197fb1": "c4a623ab",
+      "a6953516": "7edb4c7b",
+      "042c9234": "c1b3e9c9",
+      "f279a28e": "083f8eb5",
+      "24f063a7": "e419841d",
+      "9fca30bd": "4f23f4ab",
+      "396f0fe3": "326a7c8e",
+      "a2c638c0": "e56ed1d0",
+      "66e9b305": "d4ab2503",
+      "c524bc18": "b2c52183",
+      "3db1d4dc": "935264ed",
+      "421b626a": "44f30d56",
+      "6a77af08": "4718ca86",
+      "6920547d": "6a774334",
+      "e644a216": "ced92817",
+      "a1b7bce0": "02046b31",
+      "12caff01": "0af97698",
+      "c5811c5e": "7c423eea",
+      "c3eb88b9": "572b6b3d",
+      "d91c334f": "7b5dd58f",
+      "a3e2864d": "5d152577",
+      "f038585d": "c2b68350",
+      "22e71ce5": "3a2e41ea",
+      "ef70b591": "bb092e81",
+      "bb73fd63": "357e01aa",
+      "3657ec9c": "354f88ab",
+      "12daf5e8": "f95db4bc",
+      "b15e46c3": "5e73bec3",
+      "4f75b27f": "a35225eb",
+      "c8d70d8c": "097ab880",
+      "3b983f5b": "97665b57",
+      "e7fd3854": "0606fbf6",
+      "9ebefa99": "2592e463",
+      "a0feff6a": "ab5fb7a7",
+      "20e68b7f": "3ac94e17",
+      "bb87f0b0": "80a31920",
+      "96b5710e": "9432596b",
+      "f5ebec6d": "c940e26f",
+      "98fe51b3": "07ee2976",
+      "a5bf544e": "c4d8340c",
+      "2602290a": "34efec49",
+      "7d1731ab": "38ebed6c",
+      "4c274ced": "8ebee738",
+      "238529a2": "88690cc1"
     },
     "size": {
       "width": 918,

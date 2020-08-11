@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [1.0.4] - 2020-08-11
+
+### Added
+- cookie banner a cookie preferencies
+- v ed_custom potvrdzovaci panel (pri vymazavani)
+
 
 ## [1.0.3] - 2020-02-17
 
